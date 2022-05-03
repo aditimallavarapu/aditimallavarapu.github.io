@@ -1,0 +1,969 @@
+AwardNumber,Title,StartDate,SuperCategory
+1122504,DIP: Teaching Writing and Argumentation with AI-Supported Diagramming and Peer Review,9/1/11 0:00,Learning Environments and Platforms
+1122573,EXP: Fostering Collective Progress in Online Discourse for Sustained Knowledge Building,9/1/11 0:00,Equity and Social Justice
+1123569,EXP: Exploring the Virtual World of Contextualized English Language Acquisition,9/1/11 0:00,Learning Environments and Platforms
+1123574,EXP: Augmenting Household Technologies for Learning and Whole Family Participation: Heating and Cooling Control as an Exploratory Case,9/1/11 0:00,"Instruments, Assessment, and Measures"
+1123823,EXP: Students Authoring Intelligent Tutoring Systems for Constructing Models of Ill-Defined Dynamic Systems,10/1/11 0:00,Learning Processes and Theories
+1123832,DIP: Interaction Research in Complex Informal Learning Environments,1/1/12 0:00,Learning Processes and Theories
+1123965,EXP: Collaborative Research: Using Smartphone-Based Participatory Simulations to Engage Children in Scientific Thinking,9/1/11 0:00,Learning Processes and Theories
+1123972,DIP: Collaborative Research: Transforming Science Learning with an Interactive Web Environment for Data Sharing and Visualization,9/1/11 0:00,Learning Environments and Platforms
+1124175,EXP: CTSiM: Fostering Computational Thinking in Middle Schools through Scientific Modeling and Simulation,9/1/11 0:00,Learning Environments and Platforms
+1124176,"EXP: Developing Science, Technology, Engineering, and Math ( STEM) Identities through Participation in Science-Infused Media and Virtual Peer Networks",9/1/11 0:00,Learning Processes and Theories
+1124240,DIP: Exploiting Longitudinal Electroencephalogram (EEG) Input in a Reading Tutor,9/1/11 0:00,Analytics
+1124281,DIP: Collaborative Research: Mixed-Reality Labs: Integrating Sensors and Simulations to Improve Learning,10/1/11 0:00,Equity and Social Justice
+1124495,EXP: Using Technologies to Engage Learners in the Scientific Practices of Investigating Rich Behavioral and Ecological Questions,9/1/11 0:00,Pedagogical Approaches and Processes
+1124548,EXP: Exploring augmented reality to improve learning by deaf children in planetariums,9/1/11 0:00,Equity and Social Justice
+1135523,CI-TEAM Demo: Environmental CyberCitizens: Engaging Citizen Scientists in Global Environmental Change through Crowdsensing and Visualization,9/1/11,Learning Environments and Platforms
+1135577,Collaborative Research: CI-TEAM Demo: Adventure Learning through Water and MOSS,1/1/12,Pedagogical Approaches and Processes
+1147590,INDP: Inquiry Hub,10/1/12 0:00,Pedagogical Approaches and Processes
+1147621,INDP: InquirySpace: Technologies in Support of Student Experimentation,6/1/12 0:00,Equity and Social Justice
+1216389,EXP: Transforming High School Science via Remote Online Labs,10/1/12 0:00,Equity and Social Justice
+1216769,"EXP: Improving the Quality of Worked Examples in Open, Online, Homework Help Forums",9/1/12 0:00,Learning Processes and Theories
+1216977,EXP: Building a Learning Analytics System to Improve Student Learning and Promote Adaptive Teaching Across Multiple Domains,9/1/12 0:00,Equity and Social Justice
+1216994,EXP: Learning in the Making: Studying and Designing Makerspaces,9/1/12 0:00,Learning Processes and Theories
+1217027,EXP: Implementing a Workflow Visualization System for Design-Based Research,10/1/12 0:00,Equity and Social Justice
+1217087,EXP: Constructing Multimedia Artifacts Using a Video Repository,9/1/12 0:00,Learning Processes and Theories
+1217093,"EXP: Mobile, Movement, and Math",9/1/12 0:00,"Instruments, Assessment, and Measures"
+1217100,"EXP: SiMSAM: Bridging Student, Scientific, and Mathematical Models with Expressive Technologies",9/1/12 0:00,Learning Processes and Theories
+1217215,EXP: Collaborative Research: A System of Animation Gestures for Effective Teaching Avatars,10/1/12 0:00,Learning Environments and Platforms
+1217247,EXP: Collaborative Research: WeatherBlur,9/1/12 0:00,Learning Processes and Theories
+1217301,"EXP: Deepening Conceptual Understanding with Hands-on, Augmented-Reality Experimentation",9/1/12 0:00,Learning Processes and Theories
+1217317,EXP: Educating Teens to Understand Personal Health (GET-UP),9/1/12 0:00,Learning Processes and Theories
+1227168,DIP: 'Hard Fun' Learning Mathematics: Stimulating Number Sense,10/1/12 0:00,Learning Processes and Theories
+1227245,DIP: Using dynamic formative assessment models to enhance learning of the experimental process in biology,10/1/12 0:00,Equity and Social Justice
+1227530,DIP: BioSourcing: A Crowdsourcing Approach to Increasing Public Understanding in Computational Biosciences,9/1/12 0:00,Learning Environments and Platforms
+1227550,DIP: Sustaining ecological communities through citizen science and online collaboration,9/1/12 0:00,Learning Environments and Platforms
+1227639,DIP: V-ICED Visually-Integrated Cyber Exploratorium for Design,10/1/12 0:00,Learning Processes and Theories
+1239599,CAP: Collaborative Research: Building a Network to Advance Collaborative Research on Young Children's Learning through Public Media Assets,1/1/13 0:00,Learning Environments and Platforms
+1239605,CAP: Collaborative Research: Building a Network to Advance Collaborative Research on Young Children's Learning through Public Media Assets,1/1/13 0:00,Learning Environments and Platforms
+1248052,"INSPIRE: Studying and Promoting Quantitative and Spatial Reasoning with Complex Visual Data Across School, Museum, and Web-Media Contexts",9/15/12 0:00,Analytics
+1248066,INSPIRE: Kreyol-based Cyberlearning for a New Perspective on the Teaching of STEM in local Languages,1/1/13 0:00,Analytics
+1250580,CAP: Mobile Pathways for 21st Century Learning,10/1/12 0:00,Learning Environments and Platforms
+1254535,EAGER: A Prototype WorldWide Telescope Visualization Lab Designed in the Web-based Inquiry Science Environment,9/1/12 0:00,Learning Processes and Theories
+1256227,EAGER: Cyberlearning at the Los Angeles State Historic Park,10/1/12 0:00,Learning Processes and Theories
+1256780,EAGER: Collaborative Mathematics Learning with Robots,9/1/12 0:00,Learning Processes and Theories
+1258446,EAGER: Promoting algebra learning through an accessible expression system for students with visual impairments and blindness,10/1/12 0:00,Analytics
+1258471,EAGER: SAVI: Dynamic Digital Text: An Innovation in STEM Education,1/1/13 0:00,Learning Processes and Theories
+1265475,Badge-Based STEM Assessment: Current Terrain and the Road Ahead,1/1/13 0:00,Equity and Social Justice
+1316728,Common Online Data Analysis Platform (CODAP),10/1/13 0:00,Learning Processes and Theories
+1318345,EXP: RUI: Exploring Spatial-Temporal Anchored Collaboration in Asynchronous Learning Experiences,9/15/13 0:00,Learning Processes and Theories
+1318784,"EXP: ""Earthquake Rebuild"" - Mathematical Thinking and Learning via Architectural Design and Modeling",8/15/13 0:00,Analytics
+1318977,EXP: Exploring the potential of mobile augmented reality for scaffolding historical inquiry learning,9/1/13 0:00,Learning Processes and Theories
+1319938,EXP: Macro Data for Micro Learning: Developing FUN! for Automated Assessment of Computational Thinking in Scratch,8/15/13 0:00,Equity and Social Justice
+1320252,EXP: Developing a tutor to guide students as they invent deep principles with contrasting cases,9/15/13 0:00,Research Methods
+1320259,EXP: GeoGames - online map games for teaching and learning through a real-world spatial perspective,10/1/13 0:00,"Instruments, Assessment, and Measures"
+1320693,EXP: Digital Lofts: Online Learning Environments for Real-World Innovation,9/15/13 0:00,Equity and Social Justice
+1321045,EXP: Exploring Social Programming Environments in Early Computing Courses,9/15/13 0:00,Learning Processes and Theories
+1321056,EXP: Transforming World Language Education using Social Robotics,9/1/13 0:00,Learning Processes and Theories
+1321145,EXP: Learning Lens: An Evidence-Centered Tool for 21st Century Assessment,10/1/13 0:00,Analytics
+1321663,CAP: Partnerships for Indigenous Knowledge and Digital Literacies,7/1/13 0:00,Learning Processes and Theories
+1322174,EAGER: Pilot Investigation of Using Gaze in a Reading Tutor,3/1/13 0:00,Learning Environments and Platforms
+1323767,DIP: The Science Through Technology Enhanced Play (STEP),9/15/13 0:00,Learning Processes and Theories
+1324047,DIP: BioSim: Developing a Wearable Toolkit for Teaching Complex Science Through Embodied Play,9/15/13 0:00,Learning Processes and Theories
+1324753,DIP: Collaborative Research: Taking Hands-on Experimentation to the Cloud: Comparing Physical and Virtual Models in Biology on a Massive Scale,9/15/13 0:00,Analytics
+1324807,DIP: EMBRACEing English Language Learners with Technology,9/15/13 0:00,Analytics
+1324880,"DIP: Collaborative Research: Impact of Adaptive Interventions on Student Affect, Performance, and Learning",9/1/13 0:00,Disciplinary Areas
+1324977,DIP: Community knowledge construction in the instrumented classroom,9/15/13 0:00,Learning Processes and Theories
+1325004,"DIP: Developing Frameworks, Tools and Social Practices to Support Effective Instructor use of Online Social Learning Networks in Blended Learning Models",9/15/13 0:00,Disciplinary Areas
+1338487,BCC-SBE/EHR: Developing Community & Capacity to Measure Noncognitive Factors in Digital Learning Environments,9/15/13 0:00,Equity and Social Justice
+1338508,BCC-EHR: Learning Games Playdata Consortium (PDC): A Consortium for Digital Analytics and Techniques for Assessment with Learning Games,9/15/13 0:00,Equity and Social Justice
+1341882,EAGER: Building Learning in Urban Extended Spaces,9/1/13 0:00,Learning Processes and Theories
+1343227,EAGER: Foundations for Advancing Computational Thinking (FACT): Learning and Assessment through an Online Middle School Curriculum,10/1/13 0:00,Analytics
+1344228,Virtual Environment Interactions: Exploring Grounded Embodied Pedagogy in Support of Computational Thinking,12/15/13 0:00,Disciplinary Areas
+1349082,EAGER: TAEMILE: Towards Automating Experience Management in Interactive Learning Environments,9/1/13 0:00,Equity and Social Justice
+1353786,EAGER: Collaborative Research: Democratizing the Teaching of Parallel Computing Concepts,10/1/13 0:00,Disciplinary Areas
+1418824,RAPID: Learning in the Making: Leveraging Technologies for Impact,2/15/14 0:00,Learning Environments and Platforms
+1435470,Common Online Data Analysis Platform (CODAP),2/1/14 0:00,Learning Environments and Platforms
+1441149,EXP: Fostering Collaborative Drawing and Problem Solving through Digital Sketch and Touch,10/1/14 0:00,Learning Processes and Theories
+1441184,EXP: BodyVis: Advancing New Science Learning and Inquiry Experiences via Custom Designed Wearable On-Body Sensing and Visualization,10/1/14 0:00,Learning Processes and Theories
+1441291,"EXP: Collaborative Research: PerSketchTivity- Empowering and Inspiring Creative, Competent, Communicative, and Effective Engineers through Perspective Sketching",9/1/14 0:00,AI Approaches and Technologies
+1441331,"EXP: Collaborative Research: PerSketchTivity- Empowering and Inspiring Creative, Competent, Communicative, and Effective Engineers through Perspective Sketching",9/1/14 0:00,AI Approaches and Technologies
+1441478,CBMS2015: A Study of Undergraduate Programs in the Mathematical and Statistical Sciences in the United States and the Publication of the Results,8/15/15 0:00,Learning Processes and Theories
+1441479,DIP: Connecting Idea Threads across Communities for Sustained Knowledge Building,9/1/14 0:00,Learning Processes and Theories
+1441523,DIP: ScienceKit for ScienceEverywhere - A Seamless Scientizing Ecosystem for Raising Scientifically-Minded Children,10/1/14 0:00,Learning Processes and Theories
+1441527,DIP: Potential for everyday learning in a virtual community: A design-based investigation,10/1/14 0:00,Learning Processes and Theories
+1441542,DIP: Extending CTSiM: An Adaptive Computational Thinking Environment for Learning Science through Modeling and Simulation in Middle School Classrooms,10/1/14 0:00,Disciplinary Areas
+1441552,DIP: Modeling in Levels,9/1/14 0:00,AI Approaches and Technologies
+1441563,DIP: Developing Crosscutting Concepts in STEM with Simulation and Embodied Learning,9/1/14 0:00,Learning Environments and Platforms
+1450877,CAP: Towards Inclusive Design of Serious Games for Learning,12/1/14 0:00,Learning Processes and Theories
+1450985,EAGER: Engineering Inquiry for All at Nedlam's Workshop,9/1/14 0:00,Learning Processes and Theories
+1451315,EAGER: WeatherBlur,9/1/14 0:00,Learning Processes and Theories
+1451431,EAGER: Towards Knowledge Curation and Community Building within a Postdigital Textbook,8/1/14 0:00,AI Approaches and Technologies
+1451446,EAGER: Designing and Exploring the Impact of Learning Technologies on Youth Fitness Practices,9/1/14 0:00,Learning Environments and Platforms
+1451463,EAGER: Paper Mechatronics: Creating High-Low Tech Design Kits to Promote Engineering Education,10/1/14 0:00,Pedagogical Approaches and Processes
+1451604,"INT: Project Learning with Automated, Networked Supports (PLANS)",5/1/15 0:00,Learning Processes and Theories
+1457431,CAP: Innovating Data-driven Methodologies for Documenting and Studying Informal Learning,2/15/15 0:00,Learning Environments and Platforms
+1502882,Zoombinis: The Full Development Implementation Research Study of a Computational Thinking Game for Upper Elementary and Middle School Learners,7/15/15,Analytics
+1503481,SimScientists Games: Development of Simulation-Based Game Designs to Enhance Formative Assessment and Deep Science Learning in Middle School,8/1/15 0:00,"Instruments, Assessment, and Measures"
+1504630,Implementing and Investigating Mathematical Modeling as a Means to Demonstrate the Interdisciplinary Nature of Science and Increase STEM Retention,7/1/15 0:00,Equity and Social Justice
+1504649,C3PO: Customizable Computer Coaches for Physics Online,7/1/15 0:00,Pedagogical Approaches and Processes
+1504692,COLLABORATIVE RESEARCH: TAILORED INSTRUCTIONS AND ENGINEERED DELIVERY USING PROTOCOLS (TIED UP),8/1/15 0:00,Pedagogical Approaches and Processes
+1504718,"Collaborative Research: Leveraging ""Big Data"" to Explore Big Ideas: Utilizing the Paleobiology Database to Provide Hands-on Research Opportunities for Undergraduates",6/15/15,Analytics
+1504728,SciLAF: Scientific-based Learning Assessment Framework for Student Knowledge Tracking,8/15/15,Analytics
+1504792,"Development of a Simulation-Based Application for Teaching Human Physiology through Guided Discovery, Pure Discovery, and Authentic Research",8/1/15,Learning Environments and Platforms
+1504880,"Promoting the Development of Metacognition and Combating Robust Misconceptions In a Gateway STEM Course Using an Intelligent, Web-based Homework System",6/15/15,Analytics
+1504898,Collaborative Research: Strategies for Learning: Augmented Reality and Collaborative Problem-Solving for Building Sciences,9/15/15,Learning Processes and Theories
+1505058,PERKS: Power Electronics Refined learning via affordable Kit and Software tutor,8/15/15,AI Approaches and Technologies
+1506724,RAPID: Collaborative Research: Learning about Infectious Diseases through Online Participation in a Virtual Epidemic,9/1/15 0:00,Analytics
+1513086,"GeniConnect: Game-based learning, mentoring, and laboratory experiences - A model for industry-afterschool partnerships",9/1/15,Learning Environments and Platforms
+1513104,Collaborative Research:  An impact study to examine the efficacy of a mathematics professional development program for elementary teachers,9/1/15,Learning Processes and Theories
+1513382,EAGER: Collaborative Research: Virtual STEM Buddies for Personalized Learning Experiences in Free Choice Informal Learning Settings,9/1/15 0:00,Equity and Social Justice
+1515550,"Using Big Data and Visual Analytics to Investigate the Long-term, Cascading Effects of Informal STEM Learning",10/1/15 0:00,Analytics
+1516149,"Learning to See, Seeing to Learn: A Sociotechnical System Supporting Taxonomic Identification Activities in Volunteer-Based Water Quality Biomonitoring",9/1/15 0:00,Learning Processes and Theories
+1516684,Increasing Learning and Efficacy about Emerging Technologies through Transmedia Engagement by the Public in Science-in-Society Activities,8/1/15 0:00,Learning Processes and Theories
+1516703,"SciStarter 2.0: A Dashboard to Drive Research, Participation, and Community-building in Citizen Science",10/15/15 0:00,Learning Processes and Theories
+1522921,EXP: Advancing Early STEM Learning through Haptic Feedback Displays,9/1/15 0:00,Learning Environments and Platforms
+1522945,EXP: Promoting Learning through Annotation of Embodiment (PLAE),9/1/15 0:00,Equity and Social Justice
+1522990,EXP: Understanding Computational Thinking Process and Practices in Open-Ended Programming Environments,9/1/15 0:00,Learning Processes and Theories
+1523116,EXP: Learning Parallel Programming Concepts Through an Adaptive Game,9/1/15 0:00,Disciplinary Areas
+1523162,EXP: Partners in Learning: Building Rapport with a Virtual Peer Tutor,9/1/15 0:00,Research Methods
+1524902,IUSE: A Pedagogical Framework for Undergraduate Project-Based Engineering Design Courses,9/1/15 0:00,Disciplinary Areas
+1524990,Collaborative Research: Developing and Assessing Effective Cyberlearning within the STEMWiki Hyperlibrary,10/1/15 0:00,Equity and Social Justice
+1525103,Virtual Biology Lab 2.0: improving and implementing an inquiry-based educational resource,1/1/16,Analytics
+1525112,Collaborative Research: Engaged Student Learning - Design and Development Level II: Using a Cyberlearning Environment to Improve Student Learning and Engagement in Software Courses,9/1/15,Learning Processes and Theories
+1525716,Collaborative Research: Integrated Development of Scalable Mobile Multidisciplinary Modules (SM3) for STEM Education,9/15/15 0:00,Learning Processes and Theories
+1530465,DIP: Next Generation WeatherBlur: Expanding Non-Hierarchical Online Learning Community Models for Citizen Science,10/1/15 0:00,Learning Processes and Theories
+1530578,DIP: Data Science Games - Student Immersion in Data Science Using Games for Learning in the Common Online Data Analysis Platform,10/1/15 0:00,Disciplinary Areas
+1530726,EXP: Helping Teachers Help Their Students: Teachers' Use of Intelligent Tutoring Software Analytics to Improve Student Learning,9/1/15 0:00,Learning Processes and Theories
+1530833,DIP: Digital Studios for Social Innovation Networks,9/1/15 0:00,Analytics
+1534626,Collaborative Research:  Investigating How English Language Learners Use Dynamic Representational Technology to Participate in Middle School Mathematical Practices,10/1/15,Analytics
+1535337,Collaborative Research: The Downside of Perseverance--Investigating and Moving Students Beyond Unproductive Persistence,9/15/15 0:00,AI Approaches and Technologies
+1541676,"CAP:   Data Science, Learning and Youth: Connecting Research and Creating Frameworks",8/1/15 0:00,Analytics
+1550051,EAGER: Collaborative Research: Designing Digital Rails to Foster Scientific Curiosity around Museum Collections,9/1/15 0:00,"Instruments, Assessment, and Measures"
+1550055,EAGER: Collaborative Research: Designing Digital Rails to Foster Scientific Curiosity around Museum Collections,9/1/15 0:00,Learning Processes and Theories
+1550122,EAGER: Exploiting Keystroke Logging and Eye-Tracking to Support the Learning of Writing,9/1/15 0:00,Learning Environments and Platforms
+1550635,EAGER: Computational Models of Essay Rewritings,9/1/15 0:00,AI Approaches and Technologies
+1550800,CAP:  Building Partnerships for Education and Speech Research,9/1/15 0:00,AI Approaches and Technologies
+1550902,EAGER: Cyberlearning: Towards Virtual Worlds that Afford Knowledge Integration Across Project Challenges and Disciplines,10/1/15 0:00,Analytics
+1551589,"INT: Collaborative Research: Detecting, Predicting and Remediating Student Affect and Grit Using Computer Vision",9/1/16 0:00,Analytics
+1551594,"INT: Collaborative Research: Detecting, Predicting and Remediating Student Affect and Grit Using Computer Vision",9/1/16 0:00,AI Approaches and Technologies
+1555550,Pilot Study: Creating a Special Collection of NSF-Funded Learning Resources to Support Core Ideas in High School Biology,9/1/15 0:00,Pedagogical Approaches and Processes
+1561150,Collaborative Research: ArguLex--Applying Automated Analysis to a Learning Progression for Argumentation,9/1/16 0:00,"Instruments, Assessment, and Measures"
+1600325,EAGER: Early Stage Research on Automatically Identifying Instructional Moves in Mathematics,6/15/16 0:00,Analytics
+1609290,Examining the Effects of Retrieval Practice and Spacing on Engineering Students' Retention of Precalculus Knowledge,9/1/16 0:00,Disciplinary Areas
+1612485,"Think Globally, Interact Locally: Advancing Science Learning using Interactive Spherical Displays to Model Global, Physical Systems",9/1/16 0:00,Learning Environments and Platforms
+1612744,Intelligent Science Exhibits: Transforming Hands-on Exhibits into Mixed-Reality Learning Experiences,9/1/16 0:00,Learning Processes and Theories
+1614239,Collaborative Research: WAVES - A STEM-Powered Youth News Network for the Nation,9/1/16 0:00,Learning Environments and Platforms
+1614847,Making it Stick!  Mobile Apps to Pedagogically Support Retrieval Practices,9/1/16 0:00,Learning Environments and Platforms
+1621101,Workshop for Building a Network for Early Career Scholars of Games and Learning,9/1/16 0:00,Learning Environments and Platforms
+1622831,Doctoral Consortium for the 2016 Learning Analytics and Knowledge Conference,6/1/16 0:00,Analytics
+1623419,EXP: Fostering Self-Correcting Reasoning with Reflection Systems,9/1/16 0:00,Pedagogical Approaches and Processes
+1623470,EXP: Data-Driven Support for Novice Programmers,9/1/16 0:00,Disciplinary Areas
+1623561,EXP: Inclusive Design for Engaging All Learners (IDEAL): Designing Technology for Cultural Brokering,1/1/17 0:00,Learning Processes and Theories
+1623605,EXP: Modeling Perceptual Fluency with Visual Representations in an Intelligent Tutoring System for Undergraduate Chemistry,9/1/16 0:00,AI Approaches and Technologies
+1623622,EXP: Collaborative Research: Perception and Production in Second Language: The Roles of Voice Variability and Familiarity,8/1/16 0:00,"Instruments, Assessment, and Measures"
+1623625,EXP: Linking Eye Movements with Vvisual Attention to Enhance Cyberlearning,8/15/16 0:00,Disciplinary Areas
+1623635,EXP: Agile Research Studios: Scaling Cognitive Apprenticeship to Advance Undergraduate and Graduate Research Training in STEM,9/1/16 0:00,Learning Processes and Theories
+1623690,EXP: Bridging Learning in Urban Extended Spaces (BLUES) 2.0,9/1/16 0:00,Learning Environments and Platforms
+1623702,EXP: Exploratory Study on the Adaptive Online Course and its Implication on Synergetic Competency,9/1/16 0:00,AI Approaches and Technologies
+1623730,EXP: Linguistic Analysis and a Hybrid Human-Automatic Coach for Improving Math Identity,9/1/16 0:00,Analytics
+1626602,Engaged Student Learning: Coalition for Undergraduate Computational Data-enabled Science & Engineering (CDSE) Education,1/15/17 0:00,Learning Processes and Theories
+1626939,Closing Gaps: Connecting Assessment and Culture to Increase Achievement,10/1/16 0:00,Learning Environments and Platforms
+1628782,DIP: Graphical Model Construction by System Decomposition:  Increasing the Utility of Algebra Story Problem Solving,9/1/16 0:00,AI Approaches and Technologies
+1628937,DIP: Game-based Assessment and Support of STEM-related Competencies,9/1/16 0:00,Analytics
+1628976,DIP: Improving Collaborative Learning in Engineering Classes Through Integrated Tools,9/1/16 0:00,Analytics
+1629045,EXP: Inq-Blotter - A Real Time Alerting Tool to Transform Teachers' Assessment of Science Inquiry Practices,9/1/16 0:00,Analytics
+1629161,EXP: Assessing 'Complex Epistemic Performance' in Online Learning Environments,9/1/16 0:00,"Instruments, Assessment, and Measures"
+1629302,DIP: Collaborative Research: Interactive Science Through Technology Enhanced Play (iSTEP),9/1/16 0:00,Learning Environments and Platforms
+1629526,EXP: Linking Complex Systems: Promoting Reasoning within and Across Interconnected Complex Systems,10/1/16 0:00,AI Approaches and Technologies
+1637350,EAGER: Smart and Connected Communities: Reducing Friction in the L3 Connects Infrastructure: Embedding a recommender system into mobile apps to support real-time brokering,9/15/16 0:00,Learning Environments and Platforms
+1644478,I-Corps-L project for the Commercialization of the Solar Energy Education Buddy (SEEB),8/1/16 0:00,Equity and Social Justice
+1645102,EAGER: Mobile City Science: Youth Mapping Community Learning Opportunities,9/1/16 0:00,Learning Processes and Theories
+1647023,EAGER: Teaching Computational Thinking through Programming Wearable Devices as Finite State Machines,12/1/16 0:00,Disciplinary Areas
+1647242,CAP:   Building Capacity for New Genre of Learning on the Move (LoM),9/1/16 0:00,Learning Environments and Platforms
+1652372,NetStat: EAGER:  A Representation and Communication Infrastructure for Classroom Collaboration in Data Modeling and Statistics,9/1/16 0:00,Learning Processes and Theories
+1705365,Collaborative Research: Optimizing learning from chemistry simulations: Comparing attention allocation and learning outcomes for assignments with and without instructor screencasts,8/15/17 0:00,Research Methods
+1712030,Collaborative Research: Active Learning for Out-of-class Activities to Improve Student Success,9/15/17 0:00,Learning Environments and Platforms
+1712116,Understanding the Implications of Online Learning and Engagement Strategies with Elements of Competition on Women Students' Engagement and Fit with Computer Science,8/15/17 0:00,Disciplinary Areas
+1712146,Interactive Virtual Laboratory: Using Renewable Energy Experiments to Enhance Student Engagement in STEM,6/15/17 0:00,AI Approaches and Technologies
+1712258,Code: SciGirls! Media to Engage Girls in Computing Pathways,9/1/17 0:00,Analytics
+1712381,Improving undergraduate chemistry students' hands-on laboratory skills through video-based assessment,9/1/17 0:00,"Instruments, Assessment, and Measures"
+1712475,Student Engagement in Statistics Using Technology: Making Data Based Decisions,6/1/17 0:00,Analytics
+1713537,Virtual Ice Explorer: Immersively Experiencing Changing Glacial Landscapes,9/1/17 0:00,Analytics
+1721054,Science and Engineering Education for Infrastructure Transformation,10/1/17 0:00,Equity and Social Justice
+1725347,Collaborative Research: Implementing 21st century geodesy learning through faculty development and expanded applications of data to societal issues,8/1/17 0:00,Disciplinary Areas
+1725554,Simulated Practice: Using Socially-Responsive Avatars to Prepare STEM Graduate Teaching Assistants for Student-Centered Instruction,11/15/17 0:00,"Instruments, Assessment, and Measures"
+1726180,Grappling with Graphs: Researching and Improving Student Graphing Skills Using An Interactive Digital Graphing Tool,9/1/17 0:00,"Instruments, Assessment, and Measures"
+1726809,Collaborative Research: Retaining and Engaging Computer Science majors By Solving and Visualizing Algorithmic Problems on Real-world Data Sets,8/15/17 0:00,Learning Processes and Theories
+1735123,"EXP: Automatically Synthesizing Valid, Personalized, Formative Assessments of CS1 Concepts",9/1/17 0:00,Analytics
+1735752,EXP: Development of Human Language Technologies to Improve Disciplinary Writing and Learning through Self-Regulated Revising,8/1/17 0:00,AI Approaches and Technologies
+1735836,EXP: Paper Mechatronics: Advancing Engineering Education Through Computationally Enhanced Children's Papercrafts,10/1/17 0:00,Analytics
+1735878,"EXP: Collaborative Research: Cultivating Apprenticeship Learning for Architecture, Engineering, and Construction Using Mixed Reality",9/1/17 0:00,AI Approaches and Technologies
+1735977,EXP: Readily Available Learning Experiences: Turning the Entire Web into Progressive Examples to Bridge Conceptual Knowledge Gaps for Novice Web Developers,9/1/17 0:00,Learning Environments and Platforms
+1736051,Catalyzing Scientific Inquiry and Engineering through Wearable Intersubjective Sensation Devices,8/1/17 0:00,Learning Environments and Platforms
+1736185,EXP: Collaborative Research: Empowering Learners to Conduct Experiments,9/1/17 0:00,Analytics
+1736225,"EXP: To Enact, To Tell, To Write: A Bridge to Expressive Writing through Digital Enactment",9/1/17 0:00,Learning Environments and Platforms
+1736235,EXP: Social Science Education through Virtual Reality Simulation of an Archaeological Research Site,10/1/17 0:00,Analytics
+1747997,EAGER: Developing Teaching Assistant Expertise with a Sensor-Based Learning System,9/1/17 0:00,Disciplinary Areas
+1748058,EAGER: Collaborative Research: Interactive Dialog Agents for Social Language Development and Listening Comprehension,10/1/17 0:00,AI Approaches and Technologies
+1820766,"A Data-Driven, Multidisciplinary Curriculum Providing Access to the Data Analytics Economy through Project-based Learning",10/1/18 0:00,Research Methods
+1821319,Engaging Non-Science Majors in Authentic Research through Citizen Science,9/1/18 0:00,Disciplinary Areas
+1821396,Collaborative Research: Interactive Video-Enhanced Tutorials on Problem Solving in Physics,10/1/18 0:00,Disciplinary Areas
+1821628,"Collaborative Research: Expansion, Optimization, and Dissemination of Step-Based Tutoring Software for Linear Circuit Analysis",9/1/18 0:00,Disciplinary Areas
+1821852,Using Virtual Humans in 360-degree Immersive Digital Sites to Practice Communication Skills within Complex Spatiotemporal Contexts,10/1/18 0:00,Analytics
+1821894,Collaborative Research: Multimodal Affective Pedagogical Agents for Different Types of Learners,8/1/18 0:00,Disciplinary Areas
+1822477,Leverage Augmented Reality for Safety Education in the Logistics Industry,9/1/18 0:00,AI Approaches and Technologies
+1822724,Immersive virtual learning for worker-robot teamwork on construction sites,9/15/18 0:00,Learning Environments and Platforms
+1822728,Mapping Fields in Augmented Reality with Personal Mobile Devices:  Enhancing Visualization Skills for Education and Industry,7/15/18 0:00,Learning Environments and Platforms
+1822768,Teachers are the Learners: Providing Automated Feedback on Classroom Inter-Personal Dynamics,8/1/18 0:00,Equity and Social Justice
+1822796,Connections of Earth and Sky with Augmented Reality (CEASAR): Transforming Collaborative Learning Practices with Shared and Embedded Digital Models,10/1/18 0:00,Research Methods
+1822800,A Remote Multimodal Learning Environment to Increase Graphical Information Access for Blind and Visually Impaired Students,8/15/18 0:00,Equity and Social Justice
+1822813,"Cyberlearning: Sensei: High-Fidelity, Non-Invasive Classroom Sensing for Professional Development",9/1/18 0:00,Equity and Social Justice
+1822816,"Collaborative Research: CSEdPad: Investigating and Scaffolding Students' Mental Models during Computer Programming Tasks to Improve Learning, Engagement, and Retention",9/1/18 0:00,Other
+1822819,Collaborative Research: Teaching Human Motion Tasks at Population Scale,9/15/18 0:00,AI Approaches and Technologies
+1822830,Putting Teachers in the Driver's Seat: Using Machine Learning to Personalize Interactions with Students (DRIVER-SEAT),9/1/18 0:00,AI Approaches and Technologies
+1822831,Collaborative Research: Human-Technology Partnership Supporting Career Path Exploration and Navigation,9/1/18 0:00,AI Approaches and Technologies
+1822861,Human/AI Co-Orchestration of Dynamically-Differentiated Collaborative Classrooms,9/1/18 0:00,Learning Environments and Platforms
+1822864,"Data-Driven, Human-in-the-Loop Support for Facilitating Participatory Learning Activities",9/1/18 0:00,Analytics
+1822865,Designing and Evaluating a Naturalistic Platform for Collaborative Learning About Spatial Reasonings,9/1/18 0:00,Analytics
+1822872,ROBO-VI: A Virtual-Internship-Based Hybrid Learning Technology to Prepare Traditional and Non-Traditional Students to Work with Collaborative Robots,8/15/18 0:00,Learning Processes and Theories
+1822876,Advancing the Use of Automated Dialogue Systems for Teaching Communication and Interpersonal Skills,10/1/18 0:00,Disciplinary Areas
+1822877,Technology Facilitated Training for Mental Health Counseling,8/1/18 0:00,Research Methods
+1824727,Synthesis and Design Workshop: Digital Science and Data Analytic Learning Environments at Small Liberal Arts Institutions,9/1/18 0:00,Research Methods
+1824854,Synthesis and design workshop: Designing Scalable Advanced Learning Ecosystems,9/1/18,Learning Environments and Platforms
+1824924,Synthesis and Design Workshop: Distributed Collaboration in STEM-Rich Project-Based Learning,9/1/18,Learning Processes and Theories
+1824998,Synthesis and design workshop: Research Priorities in Learning Analytics,9/1/18 0:00,Analytics
+1825007,Synthesis and Design Workshop: Digitally-Mediated Team Learning,9/1/18,Learning Processes and Theories
+1825070,Synthesis and Design Workshop: Weaving the Fabric of Adaptive STEM Learning Environments Across Domains and Settings,9/1/18 0:00,Analytics
+1825076,"Synthesis and Design Workshop: Principles for the design of digitally-distributed, studio-based STEM learning environments",9/1/18 0:00,Research Methods
+1828801,EXP: Tenacity: Self-Regulation of Attention and Its Relationship with Learning,1/1/17 0:00,Learning Environments and Platforms
+1829542,"Using Degree Experience Plans to Improve Engagement, Retention, and Diversity of Undergraduates in Computer Science",10/1/18 0:00,Analytics
+1834465,Leveraging Virtual Reality to Connect Learning and Integrate Course Knowledge in the Industrial Engineering Curriculum,10/1/18 0:00,Analytics
+1836963,Collaborative Project Management Institute for Informal Science Institutions,8/1/18 0:00,Analytics
+1839194,EXP: Inclusive Design for Engaging All Learners (IDEAL): Designing Technology for Cultural Brokering,1/1/18 0:00,Research Methods
+1839379,Signing Avatars & Immersive Learning (SAIL): Development and Testing of a Novel Embodied Learning Environment,8/1/18,Learning Environments and Platforms
+1842220,Computer-Assisted Video Analysis Methods for Understanding Underrepresented Student Participation and Learning in Collaborative Learning Environments,9/1/18 0:00,Equity and Social Justice
+1842334,EAGER: Discussion Tracker: Development of Human Language Technologies to Improve the Teaching of Collaborative Argumentation in High School English Classrooms,9/1/18 0:00,"Instruments, Assessment, and Measures"
+1842693,EAGER: Leveraging Behavioral and Physiological Feedback in the Design of Affect-Sensitive Distance Learning,9/1/18 0:00,Learning Environments and Platforms
+1845241,Practitioner Workshop for Deploying SciStarter Affiliate Tools To Support Strategic STEM Learning,9/1/18 0:00,Disciplinary Areas
+1917763,"Collaborative Research: Immersive Virtual Reality with Haptic Feedback to Improve Safety Hazard Recognition, Assessment, and Decision-Making Among Construction Professionals",9/1/19 0:00,Learning Environments and Platforms
+1917855,Collaborative Research: Open Player and Community Modeling as a Learning Tool,9/1/19 0:00,Learning Environments and Platforms
+1917950,Broadening Participation for Remote Communities: Situated Distance Telepresence Mentoring through Embodied Communications,9/1/19 0:00,Pedagogical Approaches and Processes
+1917955,Injecting Learning into Work: Enhancing Career Advancement through Transformation of Professional Development in Technical Career Paths,9/1/19 0:00,Learning Processes and Theories
+1917994,Exploring Social Learning in Collaborative Augmented Reality with Virtual Agents as Learning Companions,7/15/19 0:00,Learning Environments and Platforms
+1918012,Collaborative Research: CSL-MultiAD: Assessing Collaborative STEM Learning through Rich Information Flow based on Multi-Sensor Audio Diarization,8/1/19 0:00,AI Approaches and Technologies
+1923329,Student and Early-Career Support for Computer-Supported Collaborative Learning (CSCL) 2019 Conference,5/1/19,Learning Processes and Theories
+1122504,DIP: Teaching Writing and Argumentation with AI-Supported Diagramming and Peer Review,9/1/11 0:00,AI Approaches and Technologies
+1122573,EXP: Fostering Collective Progress in Online Discourse for Sustained Knowledge Building,9/1/11 0:00,Learning Processes and Theories
+1123569,EXP: Exploring the Virtual World of Contextualized English Language Acquisition,9/1/11 0:00,Disciplinary Areas
+1123574,EXP: Augmenting Household Technologies for Learning and Whole Family Participation: Heating and Cooling Control as an Exploratory Case,9/1/11 0:00,Pedagogical Approaches and Processes
+1123823,EXP: Students Authoring Intelligent Tutoring Systems for Constructing Models of Ill-Defined Dynamic Systems,10/1/11 0:00,Learning Environments and Platforms
+1123965,EXP: Collaborative Research: Using Smartphone-Based Participatory Simulations to Engage Children in Scientific Thinking,9/1/11 0:00,Pedagogical Approaches and Processes
+1123972,DIP: Collaborative Research: Transforming Science Learning with an Interactive Web Environment for Data Sharing and Visualization,9/1/11 0:00,Learning Processes and Theories
+1124175,EXP: CTSiM: Fostering Computational Thinking in Middle Schools through Scientific Modeling and Simulation,9/1/11 0:00,Learning Processes and Theories
+1124176,"EXP: Developing Science, Technology, Engineering, and Math ( STEM) Identities through Participation in Science-Infused Media and Virtual Peer Networks",9/1/11 0:00,Pedagogical Approaches and Processes
+1124240,DIP: Exploiting Longitudinal Electroencephalogram (EEG) Input in a Reading Tutor,9/1/11 0:00,Learning Environments and Platforms
+1124281,DIP: Collaborative Research: Mixed-Reality Labs: Integrating Sensors and Simulations to Improve Learning,10/1/11 0:00,Learning Processes and Theories
+1124495,EXP: Using Technologies to Engage Learners in the Scientific Practices of Investigating Rich Behavioral and Ecological Questions,9/1/11 0:00,Disciplinary Areas
+1124548,EXP: Exploring augmented reality to improve learning by deaf children in planetariums,9/1/11 0:00,Learning Environments and Platforms
+1135523,CI-TEAM Demo: Environmental CyberCitizens: Engaging Citizen Scientists in Global Environmental Change through Crowdsensing and Visualization,9/1/11,Learning Processes and Theories
+1135577,Collaborative Research: CI-TEAM Demo: Adventure Learning through Water and MOSS,1/1/12,Disciplinary Areas
+1147621,INDP: InquirySpace: Technologies in Support of Student Experimentation,6/1/12 0:00,"Instruments, Assessment, and Measures"
+1216389,EXP: Transforming High School Science via Remote Online Labs,10/1/12 0:00,Learning Processes and Theories
+1216977,EXP: Building a Learning Analytics System to Improve Student Learning and Promote Adaptive Teaching Across Multiple Domains,9/1/12 0:00,"Instruments, Assessment, and Measures"
+1217027,EXP: Implementing a Workflow Visualization System for Design-Based Research,10/1/12 0:00,"Instruments, Assessment, and Measures"
+1217093,"EXP: Mobile, Movement, and Math",9/1/12 0:00,Pedagogical Approaches and Processes
+1217100,"EXP: SiMSAM: Bridging Student, Scientific, and Mathematical Models with Expressive Technologies",9/1/12 0:00,Disciplinary Areas
+1217247,EXP: Collaborative Research: WeatherBlur,9/1/12 0:00,Learning Environments and Platforms
+1217301,"EXP: Deepening Conceptual Understanding with Hands-on, Augmented-Reality Experimentation",9/1/12 0:00,"Instruments, Assessment, and Measures"
+1217317,EXP: Educating Teens to Understand Personal Health (GET-UP),9/1/12 0:00,"Instruments, Assessment, and Measures"
+1227245,DIP: Using dynamic formative assessment models to enhance learning of the experimental process in biology,10/1/12 0:00,Analytics
+1227530,DIP: BioSourcing: A Crowdsourcing Approach to Increasing Public Understanding in Computational Biosciences,9/1/12 0:00,Learning Processes and Theories
+1227550,DIP: Sustaining ecological communities through citizen science and online collaboration,9/1/12 0:00,Learning Processes and Theories
+1227639,DIP: V-ICED Visually-Integrated Cyber Exploratorium for Design,10/1/12 0:00,Learning Environments and Platforms
+1239599,CAP: Collaborative Research: Building a Network to Advance Collaborative Research on Young Children's Learning through Public Media Assets,1/1/13 0:00,Learning Processes and Theories
+1239605,CAP: Collaborative Research: Building a Network to Advance Collaborative Research on Young Children's Learning through Public Media Assets,1/1/13 0:00,Learning Processes and Theories
+1248052,"INSPIRE: Studying and Promoting Quantitative and Spatial Reasoning with Complex Visual Data Across School, Museum, and Web-Media Contexts",9/15/12 0:00,Disciplinary Areas
+1254535,EAGER: A Prototype WorldWide Telescope Visualization Lab Designed in the Web-based Inquiry Science Environment,9/1/12 0:00,"Instruments, Assessment, and Measures"
+1256227,EAGER: Cyberlearning at the Los Angeles State Historic Park,10/1/12 0:00,Learning Environments and Platforms
+1256780,EAGER: Collaborative Mathematics Learning with Robots,9/1/12 0:00,AI Approaches and Technologies
+1258471,EAGER: SAVI: Dynamic Digital Text: An Innovation in STEM Education,1/1/13 0:00,AI Approaches and Technologies
+1265475,Badge-Based STEM Assessment: Current Terrain and the Road Ahead,1/1/13 0:00,Analytics
+1316728,Common Online Data Analysis Platform (CODAP),10/1/13 0:00,"Instruments, Assessment, and Measures"
+1318345,EXP: RUI: Exploring Spatial-Temporal Anchored Collaboration in Asynchronous Learning Experiences,9/15/13 0:00,Learning Environments and Platforms
+1318784,"EXP: ""Earthquake Rebuild"" - Mathematical Thinking and Learning via Architectural Design and Modeling",8/15/13 0:00,"Instruments, Assessment, and Measures"
+1319938,EXP: Macro Data for Micro Learning: Developing FUN! for Automated Assessment of Computational Thinking in Scratch,8/15/13 0:00,Disciplinary Areas
+1320252,EXP: Developing a tutor to guide students as they invent deep principles with contrasting cases,9/15/13 0:00,Pedagogical Approaches and Processes
+1320259,EXP: GeoGames - online map games for teaching and learning through a real-world spatial perspective,10/1/13 0:00,AI Approaches and Technologies
+1320693,EXP: Digital Lofts: Online Learning Environments for Real-World Innovation,9/15/13 0:00,Learning Processes and Theories
+1321056,EXP: Transforming World Language Education using Social Robotics,9/1/13 0:00,Pedagogical Approaches and Processes
+1321145,EXP: Learning Lens: An Evidence-Centered Tool for 21st Century Assessment,10/1/13 0:00,Research Methods
+1322174,EAGER: Pilot Investigation of Using Gaze in a Reading Tutor,3/1/13 0:00,AI Approaches and Technologies
+1323767,DIP: The Science Through Technology Enhanced Play (STEP),9/15/13 0:00,Learning Environments and Platforms
+1324047,DIP: BioSim: Developing a Wearable Toolkit for Teaching Complex Science Through Embodied Play,9/15/13 0:00,"Instruments, Assessment, and Measures"
+1324807,DIP: EMBRACEing English Language Learners with Technology,9/15/13 0:00,AI Approaches and Technologies
+1324880,"DIP: Collaborative Research: Impact of Adaptive Interventions on Student Affect, Performance, and Learning",9/1/13 0:00,Learning Processes and Theories
+1325004,"DIP: Developing Frameworks, Tools and Social Practices to Support Effective Instructor use of Online Social Learning Networks in Blended Learning Models",9/15/13 0:00,Analytics
+1338487,BCC-SBE/EHR: Developing Community & Capacity to Measure Noncognitive Factors in Digital Learning Environments,9/15/13 0:00,Analytics
+1338508,BCC-EHR: Learning Games Playdata Consortium (PDC): A Consortium for Digital Analytics and Techniques for Assessment with Learning Games,9/15/13 0:00,Learning Processes and Theories
+1341882,EAGER: Building Learning in Urban Extended Spaces,9/1/13 0:00,Pedagogical Approaches and Processes
+1343227,EAGER: Foundations for Advancing Computational Thinking (FACT): Learning and Assessment through an Online Middle School Curriculum,10/1/13 0:00,Learning Environments and Platforms
+1344228,Virtual Environment Interactions: Exploring Grounded Embodied Pedagogy in Support of Computational Thinking,12/15/13 0:00,Learning Processes and Theories
+1349082,EAGER: TAEMILE: Towards Automating Experience Management in Interactive Learning Environments,9/1/13 0:00,Learning Processes and Theories
+1418824,RAPID: Learning in the Making: Leveraging Technologies for Impact,2/15/14 0:00,Pedagogical Approaches and Processes
+1435470,Common Online Data Analysis Platform (CODAP),2/1/14 0:00,Disciplinary Areas
+1441184,EXP: BodyVis: Advancing New Science Learning and Inquiry Experiences via Custom Designed Wearable On-Body Sensing and Visualization,10/1/14 0:00,Pedagogical Approaches and Processes
+1441542,DIP: Extending CTSiM: An Adaptive Computational Thinking Environment for Learning Science through Modeling and Simulation in Middle School Classrooms,10/1/14 0:00,AI Approaches and Technologies
+1441563,DIP: Developing Crosscutting Concepts in STEM with Simulation and Embodied Learning,9/1/14 0:00,Learning Processes and Theories
+1450877,CAP: Towards Inclusive Design of Serious Games for Learning,12/1/14 0:00,Learning Environments and Platforms
+1450985,EAGER: Engineering Inquiry for All at Nedlam's Workshop,9/1/14 0:00,Research Methods
+1451604,"INT: Project Learning with Automated, Networked Supports (PLANS)",5/1/15 0:00,Pedagogical Approaches and Processes
+1457431,CAP: Innovating Data-driven Methodologies for Documenting and Studying Informal Learning,2/15/15 0:00,Pedagogical Approaches and Processes
+1502882,Zoombinis: The Full Development Implementation Research Study of a Computational Thinking Game for Upper Elementary and Middle School Learners,7/15/15,Disciplinary Areas
+1504649,C3PO: Customizable Computer Coaches for Physics Online,7/1/15 0:00,Learning Environments and Platforms
+1504692,COLLABORATIVE RESEARCH: TAILORED INSTRUCTIONS AND ENGINEERED DELIVERY USING PROTOCOLS (TIED UP),8/1/15 0:00,AI Approaches and Technologies
+1504728,SciLAF: Scientific-based Learning Assessment Framework for Student Knowledge Tracking,8/15/15,"Instruments, Assessment, and Measures"
+1504792,"Development of a Simulation-Based Application for Teaching Human Physiology through Guided Discovery, Pure Discovery, and Authentic Research",8/1/15,Pedagogical Approaches and Processes
+1504880,"Promoting the Development of Metacognition and Combating Robust Misconceptions In a Gateway STEM Course Using an Intelligent, Web-based Homework System",6/15/15,"Instruments, Assessment, and Measures"
+1504898,Collaborative Research: Strategies for Learning: Augmented Reality and Collaborative Problem-Solving for Building Sciences,9/15/15,Learning Environments and Platforms
+1505058,PERKS: Power Electronics Refined learning via affordable Kit and Software tutor,8/15/15,Learning Environments and Platforms
+1506724,RAPID: Collaborative Research: Learning about Infectious Diseases through Online Participation in a Virtual Epidemic,9/1/15 0:00,"Instruments, Assessment, and Measures"
+1513104,Collaborative Research:  An impact study to examine the efficacy of a mathematics professional development program for elementary teachers,9/1/15,Other
+1516149,"Learning to See, Seeing to Learn: A Sociotechnical System Supporting Taxonomic Identification Activities in Volunteer-Based Water Quality Biomonitoring",9/1/15 0:00,Learning Environments and Platforms
+1522921,EXP: Advancing Early STEM Learning through Haptic Feedback Displays,9/1/15 0:00,Learning Processes and Theories
+1522990,EXP: Understanding Computational Thinking Process and Practices in Open-Ended Programming Environments,9/1/15 0:00,Other
+1523116,EXP: Learning Parallel Programming Concepts Through an Adaptive Game,9/1/15 0:00,Learning Environments and Platforms
+1525103,Virtual Biology Lab 2.0: improving and implementing an inquiry-based educational resource,1/1/16,Learning Environments and Platforms
+1525112,Collaborative Research: Engaged Student Learning - Design and Development Level II: Using a Cyberlearning Environment to Improve Student Learning and Engagement in Software Courses,9/1/15,Pedagogical Approaches and Processes
+1525716,Collaborative Research: Integrated Development of Scalable Mobile Multidisciplinary Modules (SM3) for STEM Education,9/15/15 0:00,Learning Environments and Platforms
+1530465,DIP: Next Generation WeatherBlur: Expanding Non-Hierarchical Online Learning Community Models for Citizen Science,10/1/15 0:00,Research Methods
+1530578,DIP: Data Science Games - Student Immersion in Data Science Using Games for Learning in the Common Online Data Analysis Platform,10/1/15 0:00,Analytics
+1530726,EXP: Helping Teachers Help Their Students: Teachers' Use of Intelligent Tutoring Software Analytics to Improve Student Learning,9/1/15 0:00,"Instruments, Assessment, and Measures"
+1534626,Collaborative Research:  Investigating How English Language Learners Use Dynamic Representational Technology to Participate in Middle School Mathematical Practices,10/1/15,"Instruments, Assessment, and Measures"
+1541676,"CAP:   Data Science, Learning and Youth: Connecting Research and Creating Frameworks",8/1/15 0:00,Capacity Building
+1550055,EAGER: Collaborative Research: Designing Digital Rails to Foster Scientific Curiosity around Museum Collections,9/1/15 0:00,Learning Environments and Platforms
+1550122,EAGER: Exploiting Keystroke Logging and Eye-Tracking to Support the Learning of Writing,9/1/15 0:00,Pedagogical Approaches and Processes
+1550800,CAP:  Building Partnerships for Education and Speech Research,9/1/15 0:00,Capacity Building
+1550902,EAGER: Cyberlearning: Towards Virtual Worlds that Afford Knowledge Integration Across Project Challenges and Disciplines,10/1/15 0:00,Disciplinary Areas
+1551589,"INT: Collaborative Research: Detecting, Predicting and Remediating Student Affect and Grit Using Computer Vision",9/1/16 0:00,AI Approaches and Technologies
+1551594,"INT: Collaborative Research: Detecting, Predicting and Remediating Student Affect and Grit Using Computer Vision",9/1/16 0:00,Learning Processes and Theories
+1561150,Collaborative Research: ArguLex--Applying Automated Analysis to a Learning Progression for Argumentation,9/1/16 0:00,Disciplinary Areas
+1600325,EAGER: Early Stage Research on Automatically Identifying Instructional Moves in Mathematics,6/15/16 0:00,Disciplinary Areas
+1609290,Examining the Effects of Retrieval Practice and Spacing on Engineering Students' Retention of Precalculus Knowledge,9/1/16 0:00,Research Methods
+1612485,"Think Globally, Interact Locally: Advancing Science Learning using Interactive Spherical Displays to Model Global, Physical Systems",9/1/16 0:00,Disciplinary Areas
+1612744,Intelligent Science Exhibits: Transforming Hands-on Exhibits into Mixed-Reality Learning Experiences,9/1/16 0:00,Learning Environments and Platforms
+1614239,Collaborative Research: WAVES - A STEM-Powered Youth News Network for the Nation,9/1/16 0:00,Learning Processes and Theories
+1614847,Making it Stick!  Mobile Apps to Pedagogically Support Retrieval Practices,9/1/16 0:00,AI Approaches and Technologies
+1623419,EXP: Fostering Self-Correcting Reasoning with Reflection Systems,9/1/16 0:00,Learning Environments and Platforms
+1623470,EXP: Data-Driven Support for Novice Programmers,9/1/16 0:00,Other
+1623605,EXP: Modeling Perceptual Fluency with Visual Representations in an Intelligent Tutoring System for Undergraduate Chemistry,9/1/16 0:00,Disciplinary Areas
+1623622,EXP: Collaborative Research: Perception and Production in Second Language: The Roles of Voice Variability and Familiarity,8/1/16 0:00,Learning Environments and Platforms
+1623625,EXP: Linking Eye Movements with Vvisual Attention to Enhance Cyberlearning,8/15/16 0:00,Analytics
+1623635,EXP: Agile Research Studios: Scaling Cognitive Apprenticeship to Advance Undergraduate and Graduate Research Training in STEM,9/1/16 0:00,Other
+1623702,EXP: Exploratory Study on the Adaptive Online Course and its Implication on Synergetic Competency,9/1/16 0:00,Learning Environments and Platforms
+1623730,EXP: Linguistic Analysis and a Hybrid Human-Automatic Coach for Improving Math Identity,9/1/16 0:00,Learning Processes and Theories
+1626602,Engaged Student Learning: Coalition for Undergraduate Computational Data-enabled Science & Engineering (CDSE) Education,1/15/17 0:00,Learning Environments and Platforms
+1628937,DIP: Game-based Assessment and Support of STEM-related Competencies,9/1/16 0:00,"Instruments, Assessment, and Measures"
+1628976,DIP: Improving Collaborative Learning in Engineering Classes Through Integrated Tools,9/1/16 0:00,Learning Environments and Platforms
+1629045,EXP: Inq-Blotter - A Real Time Alerting Tool to Transform Teachers' Assessment of Science Inquiry Practices,9/1/16 0:00,"Instruments, Assessment, and Measures"
+1629161,EXP: Assessing 'Complex Epistemic Performance' in Online Learning Environments,9/1/16 0:00,Other
+1629302,DIP: Collaborative Research: Interactive Science Through Technology Enhanced Play (iSTEP),9/1/16 0:00,Learning Processes and Theories
+1637350,EAGER: Smart and Connected Communities: Reducing Friction in the L3 Connects Infrastructure: Embedding a recommender system into mobile apps to support real-time brokering,9/15/16 0:00,Analytics
+1644478,I-Corps-L project for the Commercialization of the Solar Energy Education Buddy (SEEB),8/1/16 0:00,AI Approaches and Technologies
+1647242,CAP:   Building Capacity for New Genre of Learning on the Move (LoM),9/1/16 0:00,Capacity Building
+1652372,NetStat: EAGER:  A Representation and Communication Infrastructure for Classroom Collaboration in Data Modeling and Statistics,9/1/16 0:00,Disciplinary Areas
+1705365,Collaborative Research: Optimizing learning from chemistry simulations: Comparing attention allocation and learning outcomes for assignments with and without instructor screencasts,8/15/17 0:00,Learning Processes and Theories
+1712030,Collaborative Research: Active Learning for Out-of-class Activities to Improve Student Success,9/15/17 0:00,AI Approaches and Technologies
+1712116,Understanding the Implications of Online Learning and Engagement Strategies with Elements of Competition on Women Students' Engagement and Fit with Computer Science,8/15/17 0:00,Learning Processes and Theories
+1712258,Code: SciGirls! Media to Engage Girls in Computing Pathways,9/1/17 0:00,Capacity Building
+1712475,Student Engagement in Statistics Using Technology: Making Data Based Decisions,6/1/17 0:00,Disciplinary Areas
+1713537,Virtual Ice Explorer: Immersively Experiencing Changing Glacial Landscapes,9/1/17 0:00,Disciplinary Areas
+1721054,Science and Engineering Education for Infrastructure Transformation,10/1/17 0:00,Disciplinary Areas
+1725347,Collaborative Research: Implementing 21st century geodesy learning through faculty development and expanded applications of data to societal issues,8/1/17 0:00,Learning Environments and Platforms
+1726809,Collaborative Research: Retaining and Engaging Computer Science majors By Solving and Visualizing Algorithmic Problems on Real-world Data Sets,8/15/17 0:00,Other
+1735123,"EXP: Automatically Synthesizing Valid, Personalized, Formative Assessments of CS1 Concepts",9/1/17 0:00,Disciplinary Areas
+1735752,EXP: Development of Human Language Technologies to Improve Disciplinary Writing and Learning through Self-Regulated Revising,8/1/17 0:00,Disciplinary Areas
+1735836,EXP: Paper Mechatronics: Advancing Engineering Education Through Computationally Enhanced Children's Papercrafts,10/1/17 0:00,"Instruments, Assessment, and Measures"
+1735878,"EXP: Collaborative Research: Cultivating Apprenticeship Learning for Architecture, Engineering, and Construction Using Mixed Reality",9/1/17 0:00,Learning Environments and Platforms
+1735977,EXP: Readily Available Learning Experiences: Turning the Entire Web into Progressive Examples to Bridge Conceptual Knowledge Gaps for Novice Web Developers,9/1/17 0:00,Learning Processes and Theories
+1736051,Catalyzing Scientific Inquiry and Engineering through Wearable Intersubjective Sensation Devices,8/1/17 0:00,Pedagogical Approaches and Processes
+1736185,EXP: Collaborative Research: Empowering Learners to Conduct Experiments,9/1/17 0:00,"Instruments, Assessment, and Measures"
+1736235,EXP: Social Science Education through Virtual Reality Simulation of an Archaeological Research Site,10/1/17 0:00,AI Approaches and Technologies
+1747997,EAGER: Developing Teaching Assistant Expertise with a Sensor-Based Learning System,9/1/17 0:00,Analytics
+1821396,Collaborative Research: Interactive Video-Enhanced Tutorials on Problem Solving in Physics,10/1/18 0:00,AI Approaches and Technologies
+1821628,"Collaborative Research: Expansion, Optimization, and Dissemination of Step-Based Tutoring Software for Linear Circuit Analysis",9/1/18 0:00,AI Approaches and Technologies
+1821852,Using Virtual Humans in 360-degree Immersive Digital Sites to Practice Communication Skills within Complex Spatiotemporal Contexts,10/1/18 0:00,Disciplinary Areas
+1821894,Collaborative Research: Multimodal Affective Pedagogical Agents for Different Types of Learners,8/1/18 0:00,Learning Processes and Theories
+1822477,Leverage Augmented Reality for Safety Education in the Logistics Industry,9/1/18 0:00,Learning Environments and Platforms
+1822724,Immersive virtual learning for worker-robot teamwork on construction sites,9/15/18 0:00,Learning Processes and Theories
+1822728,Mapping Fields in Augmented Reality with Personal Mobile Devices:  Enhancing Visualization Skills for Education and Industry,7/15/18 0:00,Learning Processes and Theories
+1822768,Teachers are the Learners: Providing Automated Feedback on Classroom Inter-Personal Dynamics,8/1/18 0:00,"Instruments, Assessment, and Measures"
+1822796,Connections of Earth and Sky with Augmented Reality (CEASAR): Transforming Collaborative Learning Practices with Shared and Embedded Digital Models,10/1/18 0:00,Learning Environments and Platforms
+1822800,A Remote Multimodal Learning Environment to Increase Graphical Information Access for Blind and Visually Impaired Students,8/15/18 0:00,Analytics
+1822813,"Cyberlearning: Sensei: High-Fidelity, Non-Invasive Classroom Sensing for Professional Development",9/1/18 0:00,Research Methods
+1822819,Collaborative Research: Teaching Human Motion Tasks at Population Scale,9/15/18 0:00,Capacity Building
+1822861,Human/AI Co-Orchestration of Dynamically-Differentiated Collaborative Classrooms,9/1/18 0:00,Learning Processes and Theories
+1822865,Designing and Evaluating a Naturalistic Platform for Collaborative Learning About Spatial Reasonings,9/1/18 0:00,"Instruments, Assessment, and Measures"
+1822872,ROBO-VI: A Virtual-Internship-Based Hybrid Learning Technology to Prepare Traditional and Non-Traditional Students to Work with Collaborative Robots,8/15/18 0:00,AI Approaches and Technologies
+1822876,Advancing the Use of Automated Dialogue Systems for Teaching Communication and Interpersonal Skills,10/1/18 0:00,"Instruments, Assessment, and Measures"
+1822877,Technology Facilitated Training for Mental Health Counseling,8/1/18 0:00,"Instruments, Assessment, and Measures"
+1824727,Synthesis and Design Workshop: Digital Science and Data Analytic Learning Environments at Small Liberal Arts Institutions,9/1/18 0:00,"Instruments, Assessment, and Measures"
+1824854,Synthesis and design workshop: Designing Scalable Advanced Learning Ecosystems,9/1/18,Analytics
+1824924,Synthesis and Design Workshop: Distributed Collaboration in STEM-Rich Project-Based Learning,9/1/18,Disciplinary Areas
+1825007,Synthesis and Design Workshop: Digitally-Mediated Team Learning,9/1/18,Analytics
+1825070,Synthesis and Design Workshop: Weaving the Fabric of Adaptive STEM Learning Environments Across Domains and Settings,9/1/18 0:00,AI Approaches and Technologies
+1825076,"Synthesis and Design Workshop: Principles for the design of digitally-distributed, studio-based STEM learning environments",9/1/18 0:00,"Instruments, Assessment, and Measures"
+1829542,"Using Degree Experience Plans to Improve Engagement, Retention, and Diversity of Undergraduates in Computer Science",10/1/18 0:00,Learning Processes and Theories
+1834465,Leveraging Virtual Reality to Connect Learning and Integrate Course Knowledge in the Industrial Engineering Curriculum,10/1/18 0:00,Learning Processes and Theories
+1836963,Collaborative Project Management Institute for Informal Science Institutions,8/1/18 0:00,Learning Environments and Platforms
+1839194,EXP: Inclusive Design for Engaging All Learners (IDEAL): Designing Technology for Cultural Brokering,1/1/18 0:00,Disciplinary Areas
+1842220,Computer-Assisted Video Analysis Methods for Understanding Underrepresented Student Participation and Learning in Collaborative Learning Environments,9/1/18 0:00,"Instruments, Assessment, and Measures"
+1842693,EAGER: Leveraging Behavioral and Physiological Feedback in the Design of Affect-Sensitive Distance Learning,9/1/18 0:00,Analytics
+1845241,Practitioner Workshop for Deploying SciStarter Affiliate Tools To Support Strategic STEM Learning,9/1/18 0:00,Analytics
+1917763,"Collaborative Research: Immersive Virtual Reality with Haptic Feedback to Improve Safety Hazard Recognition, Assessment, and Decision-Making Among Construction Professionals",9/1/19 0:00,Learning Processes and Theories
+1917855,Collaborative Research: Open Player and Community Modeling as a Learning Tool,9/1/19 0:00,AI Approaches and Technologies
+1917950,Broadening Participation for Remote Communities: Situated Distance Telepresence Mentoring through Embodied Communications,9/1/19 0:00,Analytics
+1917955,Injecting Learning into Work: Enhancing Career Advancement through Transformation of Professional Development in Technical Career Paths,9/1/19 0:00,Other
+1917994,Exploring Social Learning in Collaborative Augmented Reality with Virtual Agents as Learning Companions,7/15/19 0:00,AI Approaches and Technologies
+1918012,Collaborative Research: CSL-MultiAD: Assessing Collaborative STEM Learning through Rich Information Flow based on Multi-Sensor Audio Diarization,8/1/19 0:00,Capacity Building
+1923329,Student and Early-Career Support for Computer-Supported Collaborative Learning (CSCL) 2019 Conference,5/1/19,Capacity Building
+1123823,EXP: Students Authoring Intelligent Tutoring Systems for Constructing Models of Ill-Defined Dynamic Systems,10/1/11 0:00,AI Approaches and Technologies
+1123832,DIP: Interaction Research in Complex Informal Learning Environments,1/1/12 0:00,Analytics
+1123972,DIP: Collaborative Research: Transforming Science Learning with an Interactive Web Environment for Data Sharing and Visualization,9/1/11 0:00,"Instruments, Assessment, and Measures"
+1124175,EXP: CTSiM: Fostering Computational Thinking in Middle Schools through Scientific Modeling and Simulation,9/1/11 0:00,Disciplinary Areas
+1124240,DIP: Exploiting Longitudinal Electroencephalogram (EEG) Input in a Reading Tutor,9/1/11 0:00,Disciplinary Areas
+1135523,CI-TEAM Demo: Environmental CyberCitizens: Engaging Citizen Scientists in Global Environmental Change through Crowdsensing and Visualization,9/1/11,Pedagogical Approaches and Processes
+1216389,EXP: Transforming High School Science via Remote Online Labs,10/1/12 0:00,Disciplinary Areas
+1216977,EXP: Building a Learning Analytics System to Improve Student Learning and Promote Adaptive Teaching Across Multiple Domains,9/1/12 0:00,Learning Environments and Platforms
+1216994,EXP: Learning in the Making: Studying and Designing Makerspaces,9/1/12 0:00,Pedagogical Approaches and Processes
+1217087,EXP: Constructing Multimedia Artifacts Using a Video Repository,9/1/12 0:00,AI Approaches and Technologies
+1217093,"EXP: Mobile, Movement, and Math",9/1/12 0:00,Learning Environments and Platforms
+1217100,"EXP: SiMSAM: Bridging Student, Scientific, and Mathematical Models with Expressive Technologies",9/1/12 0:00,Learning Environments and Platforms
+1217215,EXP: Collaborative Research: A System of Animation Gestures for Effective Teaching Avatars,10/1/12 0:00,AI Approaches and Technologies
+1217247,EXP: Collaborative Research: WeatherBlur,9/1/12 0:00,Pedagogical Approaches and Processes
+1217301,"EXP: Deepening Conceptual Understanding with Hands-on, Augmented-Reality Experimentation",9/1/12 0:00,AI Approaches and Technologies
+1227168,DIP: 'Hard Fun' Learning Mathematics: Stimulating Number Sense,10/1/12 0:00,"Instruments, Assessment, and Measures"
+1227245,DIP: Using dynamic formative assessment models to enhance learning of the experimental process in biology,10/1/12 0:00,Learning Environments and Platforms
+1227530,DIP: BioSourcing: A Crowdsourcing Approach to Increasing Public Understanding in Computational Biosciences,9/1/12 0:00,"Instruments, Assessment, and Measures"
+1239599,CAP: Collaborative Research: Building a Network to Advance Collaborative Research on Young Children's Learning through Public Media Assets,1/1/13 0:00,"Instruments, Assessment, and Measures"
+1239605,CAP: Collaborative Research: Building a Network to Advance Collaborative Research on Young Children's Learning through Public Media Assets,1/1/13 0:00,Pedagogical Approaches and Processes
+1248066,INSPIRE: Kreyol-based Cyberlearning for a New Perspective on the Teaching of STEM in local Languages,1/1/13 0:00,Learning Processes and Theories
+1254535,EAGER: A Prototype WorldWide Telescope Visualization Lab Designed in the Web-based Inquiry Science Environment,9/1/12 0:00,AI Approaches and Technologies
+1258446,EAGER: Promoting algebra learning through an accessible expression system for students with visual impairments and blindness,10/1/12 0:00,Learning Processes and Theories
+1258471,EAGER: SAVI: Dynamic Digital Text: An Innovation in STEM Education,1/1/13 0:00,Disciplinary Areas
+1265475,Badge-Based STEM Assessment: Current Terrain and the Road Ahead,1/1/13 0:00,Learning Environments and Platforms
+1318784,"EXP: ""Earthquake Rebuild"" - Mathematical Thinking and Learning via Architectural Design and Modeling",8/15/13 0:00,AI Approaches and Technologies
+1318977,EXP: Exploring the potential of mobile augmented reality for scaffolding historical inquiry learning,9/1/13 0:00,"Instruments, Assessment, and Measures"
+1320252,EXP: Developing a tutor to guide students as they invent deep principles with contrasting cases,9/15/13 0:00,AI Approaches and Technologies
+1320259,EXP: GeoGames - online map games for teaching and learning through a real-world spatial perspective,10/1/13 0:00,Learning Environments and Platforms
+1321045,EXP: Exploring Social Programming Environments in Early Computing Courses,9/15/13 0:00,Analytics
+1321056,EXP: Transforming World Language Education using Social Robotics,9/1/13 0:00,AI Approaches and Technologies
+1321145,EXP: Learning Lens: An Evidence-Centered Tool for 21st Century Assessment,10/1/13 0:00,"Instruments, Assessment, and Measures"
+1321663,CAP: Partnerships for Indigenous Knowledge and Digital Literacies,7/1/13 0:00,"Instruments, Assessment, and Measures"
+1324047,DIP: BioSim: Developing a Wearable Toolkit for Teaching Complex Science Through Embodied Play,9/15/13 0:00,Learning Environments and Platforms
+1324753,DIP: Collaborative Research: Taking Hands-on Experimentation to the Cloud: Comparing Physical and Virtual Models in Biology on a Massive Scale,9/15/13 0:00,Equity and Social Justice
+1324807,DIP: EMBRACEing English Language Learners with Technology,9/15/13 0:00,Learning Processes and Theories
+1325004,"DIP: Developing Frameworks, Tools and Social Practices to Support Effective Instructor use of Online Social Learning Networks in Blended Learning Models",9/15/13 0:00,Research Methods
+1338508,BCC-EHR: Learning Games Playdata Consortium (PDC): A Consortium for Digital Analytics and Techniques for Assessment with Learning Games,9/15/13 0:00,"Instruments, Assessment, and Measures"
+1343227,EAGER: Foundations for Advancing Computational Thinking (FACT): Learning and Assessment through an Online Middle School Curriculum,10/1/13 0:00,AI Approaches and Technologies
+1344228,Virtual Environment Interactions: Exploring Grounded Embodied Pedagogy in Support of Computational Thinking,12/15/13 0:00,Learning Environments and Platforms
+1349082,EAGER: TAEMILE: Towards Automating Experience Management in Interactive Learning Environments,9/1/13 0:00,"Instruments, Assessment, and Measures"
+1435470,Common Online Data Analysis Platform (CODAP),2/1/14 0:00,Analytics
+1441523,DIP: ScienceKit for ScienceEverywhere - A Seamless Scientizing Ecosystem for Raising Scientifically-Minded Children,10/1/14 0:00,Research Methods
+1441527,DIP: Potential for everyday learning in a virtual community: A design-based investigation,10/1/14 0:00,Research Methods
+1441563,DIP: Developing Crosscutting Concepts in STEM with Simulation and Embodied Learning,9/1/14 0:00,AI Approaches and Technologies
+1450877,CAP: Towards Inclusive Design of Serious Games for Learning,12/1/14 0:00,Capacity Building
+1450985,EAGER: Engineering Inquiry for All at Nedlam's Workshop,9/1/14 0:00,Pedagogical Approaches and Processes
+1451446,EAGER: Designing and Exploring the Impact of Learning Technologies on Youth Fitness Practices,9/1/14 0:00,Learning Processes and Theories
+1451604,"INT: Project Learning with Automated, Networked Supports (PLANS)",5/1/15 0:00,Learning Environments and Platforms
+1502882,Zoombinis: The Full Development Implementation Research Study of a Computational Thinking Game for Upper Elementary and Middle School Learners,7/15/15,Learning Environments and Platforms
+1503481,SimScientists Games: Development of Simulation-Based Game Designs to Enhance Formative Assessment and Deep Science Learning in Middle School,8/1/15 0:00,Learning Environments and Platforms
+1504630,Implementing and Investigating Mathematical Modeling as a Means to Demonstrate the Interdisciplinary Nature of Science and Increase STEM Retention,7/1/15 0:00,Disciplinary Areas
+1504718,"Collaborative Research: Leveraging ""Big Data"" to Explore Big Ideas: Utilizing the Paleobiology Database to Provide Hands-on Research Opportunities for Undergraduates",6/15/15,Pedagogical Approaches and Processes
+1504880,"Promoting the Development of Metacognition and Combating Robust Misconceptions In a Gateway STEM Course Using an Intelligent, Web-based Homework System",6/15/15,AI Approaches and Technologies
+1506724,RAPID: Collaborative Research: Learning about Infectious Diseases through Online Participation in a Virtual Epidemic,9/1/15 0:00,AI Approaches and Technologies
+1513382,EAGER: Collaborative Research: Virtual STEM Buddies for Personalized Learning Experiences in Free Choice Informal Learning Settings,9/1/15 0:00,Learning Environments and Platforms
+1515550,"Using Big Data and Visual Analytics to Investigate the Long-term, Cascading Effects of Informal STEM Learning",10/1/15 0:00,Learning Environments and Platforms
+1522945,EXP: Promoting Learning through Annotation of Embodiment (PLAE),9/1/15 0:00,Learning Environments and Platforms
+1524990,Collaborative Research: Developing and Assessing Effective Cyberlearning within the STEMWiki Hyperlibrary,10/1/15 0:00,Learning Environments and Platforms
+1525103,Virtual Biology Lab 2.0: improving and implementing an inquiry-based educational resource,1/1/16,Pedagogical Approaches and Processes
+1525112,Collaborative Research: Engaged Student Learning - Design and Development Level II: Using a Cyberlearning Environment to Improve Student Learning and Engagement in Software Courses,9/1/15,Learning Environments and Platforms
+1530578,DIP: Data Science Games - Student Immersion in Data Science Using Games for Learning in the Common Online Data Analysis Platform,10/1/15 0:00,Research Methods
+1530833,DIP: Digital Studios for Social Innovation Networks,9/1/15 0:00,Learning Environments and Platforms
+1535337,Collaborative Research: The Downside of Perseverance--Investigating and Moving Students Beyond Unproductive Persistence,9/15/15 0:00,Analytics
+1550051,EAGER: Collaborative Research: Designing Digital Rails to Foster Scientific Curiosity around Museum Collections,9/1/15 0:00,Learning Environments and Platforms
+1550902,EAGER: Cyberlearning: Towards Virtual Worlds that Afford Knowledge Integration Across Project Challenges and Disciplines,10/1/15 0:00,Learning Environments and Platforms
+1551589,"INT: Collaborative Research: Detecting, Predicting and Remediating Student Affect and Grit Using Computer Vision",9/1/16 0:00,Learning Environments and Platforms
+1555550,Pilot Study: Creating a Special Collection of NSF-Funded Learning Resources to Support Core Ideas in High School Biology,9/1/15 0:00,Learning Environments and Platforms
+1561150,Collaborative Research: ArguLex--Applying Automated Analysis to a Learning Progression for Argumentation,9/1/16 0:00,Equity and Social Justice
+1600325,EAGER: Early Stage Research on Automatically Identifying Instructional Moves in Mathematics,6/15/16 0:00,AI Approaches and Technologies
+1612485,"Think Globally, Interact Locally: Advancing Science Learning using Interactive Spherical Displays to Model Global, Physical Systems",9/1/16 0:00,Research Methods
+1614239,Collaborative Research: WAVES - A STEM-Powered Youth News Network for the Nation,9/1/16 0:00,Research Methods
+1614847,Making it Stick!  Mobile Apps to Pedagogically Support Retrieval Practices,9/1/16 0:00,Disciplinary Areas
+1622831,Doctoral Consortium for the 2016 Learning Analytics and Knowledge Conference,6/1/16 0:00,Learning Environments and Platforms
+1623419,EXP: Fostering Self-Correcting Reasoning with Reflection Systems,9/1/16 0:00,AI Approaches and Technologies
+1623470,EXP: Data-Driven Support for Novice Programmers,9/1/16 0:00,AI Approaches and Technologies
+1623561,EXP: Inclusive Design for Engaging All Learners (IDEAL): Designing Technology for Cultural Brokering,1/1/17 0:00,Research Methods
+1623622,EXP: Collaborative Research: Perception and Production in Second Language: The Roles of Voice Variability and Familiarity,8/1/16 0:00,AI Approaches and Technologies
+1623635,EXP: Agile Research Studios: Scaling Cognitive Apprenticeship to Advance Undergraduate and Graduate Research Training in STEM,9/1/16 0:00,Pedagogical Approaches and Processes
+1623690,EXP: Bridging Learning in Urban Extended Spaces (BLUES) 2.0,9/1/16 0:00,Disciplinary Areas
+1623730,EXP: Linguistic Analysis and a Hybrid Human-Automatic Coach for Improving Math Identity,9/1/16 0:00,Disciplinary Areas
+1626602,Engaged Student Learning: Coalition for Undergraduate Computational Data-enabled Science & Engineering (CDSE) Education,1/15/17 0:00,AI Approaches and Technologies
+1628782,DIP: Graphical Model Construction by System Decomposition:  Increasing the Utility of Algebra Story Problem Solving,9/1/16 0:00,Disciplinary Areas
+1628976,DIP: Improving Collaborative Learning in Engineering Classes Through Integrated Tools,9/1/16 0:00,Other
+1629045,EXP: Inq-Blotter - A Real Time Alerting Tool to Transform Teachers' Assessment of Science Inquiry Practices,9/1/16 0:00,Pedagogical Approaches and Processes
+1629161,EXP: Assessing 'Complex Epistemic Performance' in Online Learning Environments,9/1/16 0:00,Disciplinary Areas
+1629302,DIP: Collaborative Research: Interactive Science Through Technology Enhanced Play (iSTEP),9/1/16 0:00,Pedagogical Approaches and Processes
+1637350,EAGER: Smart and Connected Communities: Reducing Friction in the L3 Connects Infrastructure: Embedding a recommender system into mobile apps to support real-time brokering,9/15/16 0:00,Equity and Social Justice
+1644478,I-Corps-L project for the Commercialization of the Solar Energy Education Buddy (SEEB),8/1/16 0:00,Learning Environments and Platforms
+1645102,EAGER: Mobile City Science: Youth Mapping Community Learning Opportunities,9/1/16 0:00,Learning Environments and Platforms
+1647023,EAGER: Teaching Computational Thinking through Programming Wearable Devices as Finite State Machines,12/1/16 0:00,Learning Environments and Platforms
+1712030,Collaborative Research: Active Learning for Out-of-class Activities to Improve Student Success,9/15/17 0:00,Learning Processes and Theories
+1712258,Code: SciGirls! Media to Engage Girls in Computing Pathways,9/1/17 0:00,Learning Processes and Theories
+1712381,Improving undergraduate chemistry students' hands-on laboratory skills through video-based assessment,9/1/17 0:00,AI Approaches and Technologies
+1712475,Student Engagement in Statistics Using Technology: Making Data Based Decisions,6/1/17 0:00,AI Approaches and Technologies
+1713537,Virtual Ice Explorer: Immersively Experiencing Changing Glacial Landscapes,9/1/17 0:00,AI Approaches and Technologies
+1721054,Science and Engineering Education for Infrastructure Transformation,10/1/17 0:00,Learning Environments and Platforms
+1725347,Collaborative Research: Implementing 21st century geodesy learning through faculty development and expanded applications of data to societal issues,8/1/17 0:00,AI Approaches and Technologies
+1725554,Simulated Practice: Using Socially-Responsive Avatars to Prepare STEM Graduate Teaching Assistants for Student-Centered Instruction,11/15/17 0:00,AI Approaches and Technologies
+1726180,Grappling with Graphs: Researching and Improving Student Graphing Skills Using An Interactive Digital Graphing Tool,9/1/17 0:00,Disciplinary Areas
+1735123,"EXP: Automatically Synthesizing Valid, Personalized, Formative Assessments of CS1 Concepts",9/1/17 0:00,AI Approaches and Technologies
+1735836,EXP: Paper Mechatronics: Advancing Engineering Education Through Computationally Enhanced Children's Papercrafts,10/1/17 0:00,Learning Environments and Platforms
+1735878,"EXP: Collaborative Research: Cultivating Apprenticeship Learning for Architecture, Engineering, and Construction Using Mixed Reality",9/1/17 0:00,Other
+1736051,Catalyzing Scientific Inquiry and Engineering through Wearable Intersubjective Sensation Devices,8/1/17 0:00,Disciplinary Areas
+1736185,EXP: Collaborative Research: Empowering Learners to Conduct Experiments,9/1/17 0:00,Disciplinary Areas
+1736225,"EXP: To Enact, To Tell, To Write: A Bridge to Expressive Writing through Digital Enactment",9/1/17 0:00,Other
+1736235,EXP: Social Science Education through Virtual Reality Simulation of an Archaeological Research Site,10/1/17 0:00,Learning Environments and Platforms
+1747997,EAGER: Developing Teaching Assistant Expertise with a Sensor-Based Learning System,9/1/17 0:00,Capacity Building
+1820766,"A Data-Driven, Multidisciplinary Curriculum Providing Access to the Data Analytics Economy through Project-based Learning",10/1/18 0:00,AI Approaches and Technologies
+1821319,Engaging Non-Science Majors in Authentic Research through Citizen Science,9/1/18 0:00,Learning Environments and Platforms
+1821628,"Collaborative Research: Expansion, Optimization, and Dissemination of Step-Based Tutoring Software for Linear Circuit Analysis",9/1/18 0:00,Learning Environments and Platforms
+1821852,Using Virtual Humans in 360-degree Immersive Digital Sites to Practice Communication Skills within Complex Spatiotemporal Contexts,10/1/18 0:00,Learning Environments and Platforms
+1821894,Collaborative Research: Multimodal Affective Pedagogical Agents for Different Types of Learners,8/1/18 0:00,Pedagogical Approaches and Processes
+1822477,Leverage Augmented Reality for Safety Education in the Logistics Industry,9/1/18 0:00,Disciplinary Areas
+1822728,Mapping Fields in Augmented Reality with Personal Mobile Devices:  Enhancing Visualization Skills for Education and Industry,7/15/18 0:00,Disciplinary Areas
+1822768,Teachers are the Learners: Providing Automated Feedback on Classroom Inter-Personal Dynamics,8/1/18 0:00,Pedagogical Approaches and Processes
+1822796,Connections of Earth and Sky with Augmented Reality (CEASAR): Transforming Collaborative Learning Practices with Shared and Embedded Digital Models,10/1/18 0:00,AI Approaches and Technologies
+1822813,"Cyberlearning: Sensei: High-Fidelity, Non-Invasive Classroom Sensing for Professional Development",9/1/18 0:00,Learning Environments and Platforms
+1822819,Collaborative Research: Teaching Human Motion Tasks at Population Scale,9/15/18 0:00,Other
+1822861,Human/AI Co-Orchestration of Dynamically-Differentiated Collaborative Classrooms,9/1/18 0:00,AI Approaches and Technologies
+1822864,"Data-Driven, Human-in-the-Loop Support for Facilitating Participatory Learning Activities",9/1/18 0:00,Learning Environments and Platforms
+1822865,Designing and Evaluating a Naturalistic Platform for Collaborative Learning About Spatial Reasonings,9/1/18 0:00,Learning Environments and Platforms
+1822872,ROBO-VI: A Virtual-Internship-Based Hybrid Learning Technology to Prepare Traditional and Non-Traditional Students to Work with Collaborative Robots,8/15/18 0:00,Capacity Building
+1822876,Advancing the Use of Automated Dialogue Systems for Teaching Communication and Interpersonal Skills,10/1/18 0:00,Pedagogical Approaches and Processes
+1822877,Technology Facilitated Training for Mental Health Counseling,8/1/18 0:00,Learning Environments and Platforms
+1824727,Synthesis and Design Workshop: Digital Science and Data Analytic Learning Environments at Small Liberal Arts Institutions,9/1/18 0:00,Capacity Building
+1824854,Synthesis and design workshop: Designing Scalable Advanced Learning Ecosystems,9/1/18,AI Approaches and Technologies
+1824998,Synthesis and design workshop: Research Priorities in Learning Analytics,9/1/18 0:00,Capacity Building
+1825007,Synthesis and Design Workshop: Digitally-Mediated Team Learning,9/1/18,Capacity Building
+1825070,Synthesis and Design Workshop: Weaving the Fabric of Adaptive STEM Learning Environments Across Domains and Settings,9/1/18 0:00,Capacity Building
+1825076,"Synthesis and Design Workshop: Principles for the design of digitally-distributed, studio-based STEM learning environments",9/1/18 0:00,Learning Environments and Platforms
+1836963,Collaborative Project Management Institute for Informal Science Institutions,8/1/18 0:00,Capacity Building
+1839194,EXP: Inclusive Design for Engaging All Learners (IDEAL): Designing Technology for Cultural Brokering,1/1/18 0:00,AI Approaches and Technologies
+1839379,Signing Avatars & Immersive Learning (SAIL): Development and Testing of a Novel Embodied Learning Environment,8/1/18,Equity and Social Justice
+1842220,Computer-Assisted Video Analysis Methods for Understanding Underrepresented Student Participation and Learning in Collaborative Learning Environments,9/1/18 0:00,Learning Environments and Platforms
+1842334,EAGER: Discussion Tracker: Development of Human Language Technologies to Improve the Teaching of Collaborative Argumentation in High School English Classrooms,9/1/18 0:00,Research Methods
+1917763,"Collaborative Research: Immersive Virtual Reality with Haptic Feedback to Improve Safety Hazard Recognition, Assessment, and Decision-Making Among Construction Professionals",9/1/19 0:00,Capacity Building
+1917950,Broadening Participation for Remote Communities: Situated Distance Telepresence Mentoring through Embodied Communications,9/1/19 0:00,AI Approaches and Technologies
+1917955,Injecting Learning into Work: Enhancing Career Advancement through Transformation of Professional Development in Technical Career Paths,9/1/19 0:00,Capacity Building
+1122573,EXP: Fostering Collective Progress in Online Discourse for Sustained Knowledge Building,9/1/11 0:00,Learning Environments and Platforms
+1123823,EXP: Students Authoring Intelligent Tutoring Systems for Constructing Models of Ill-Defined Dynamic Systems,10/1/11 0:00,Disciplinary Areas
+1123832,DIP: Interaction Research in Complex Informal Learning Environments,1/1/12 0:00,"Instruments, Assessment, and Measures"
+1123972,DIP: Collaborative Research: Transforming Science Learning with an Interactive Web Environment for Data Sharing and Visualization,9/1/11 0:00,Disciplinary Areas
+1124176,"EXP: Developing Science, Technology, Engineering, and Math ( STEM) Identities through Participation in Science-Infused Media and Virtual Peer Networks",9/1/11 0:00,Disciplinary Areas
+1124281,DIP: Collaborative Research: Mixed-Reality Labs: Integrating Sensors and Simulations to Improve Learning,10/1/11 0:00,Analytics
+1135523,CI-TEAM Demo: Environmental CyberCitizens: Engaging Citizen Scientists in Global Environmental Change through Crowdsensing and Visualization,9/1/11,Disciplinary Areas
+1147621,INDP: InquirySpace: Technologies in Support of Student Experimentation,6/1/12 0:00,Learning Processes and Theories
+1216389,EXP: Transforming High School Science via Remote Online Labs,10/1/12 0:00,Pedagogical Approaches and Processes
+1216977,EXP: Building a Learning Analytics System to Improve Student Learning and Promote Adaptive Teaching Across Multiple Domains,9/1/12 0:00,Disciplinary Areas
+1216994,EXP: Learning in the Making: Studying and Designing Makerspaces,9/1/12 0:00,Learning Environments and Platforms
+1217087,EXP: Constructing Multimedia Artifacts Using a Video Repository,9/1/12 0:00,Disciplinary Areas
+1217093,"EXP: Mobile, Movement, and Math",9/1/12 0:00,AI Approaches and Technologies
+1217215,EXP: Collaborative Research: A System of Animation Gestures for Effective Teaching Avatars,10/1/12 0:00,Disciplinary Areas
+1217301,"EXP: Deepening Conceptual Understanding with Hands-on, Augmented-Reality Experimentation",9/1/12 0:00,Disciplinary Areas
+1217317,EXP: Educating Teens to Understand Personal Health (GET-UP),9/1/12 0:00,Pedagogical Approaches and Processes
+1227168,DIP: 'Hard Fun' Learning Mathematics: Stimulating Number Sense,10/1/12 0:00,Pedagogical Approaches and Processes
+1227245,DIP: Using dynamic formative assessment models to enhance learning of the experimental process in biology,10/1/12 0:00,Learning Processes and Theories
+1227530,DIP: BioSourcing: A Crowdsourcing Approach to Increasing Public Understanding in Computational Biosciences,9/1/12 0:00,Pedagogical Approaches and Processes
+1227550,DIP: Sustaining ecological communities through citizen science and online collaboration,9/1/12 0:00,Analytics
+1239599,CAP: Collaborative Research: Building a Network to Advance Collaborative Research on Young Children's Learning through Public Media Assets,1/1/13 0:00,Pedagogical Approaches and Processes
+1248066,INSPIRE: Kreyol-based Cyberlearning for a New Perspective on the Teaching of STEM in local Languages,1/1/13 0:00,"Instruments, Assessment, and Measures"
+1254535,EAGER: A Prototype WorldWide Telescope Visualization Lab Designed in the Web-based Inquiry Science Environment,9/1/12 0:00,Disciplinary Areas
+1258446,EAGER: Promoting algebra learning through an accessible expression system for students with visual impairments and blindness,10/1/12 0:00,Pedagogical Approaches and Processes
+1265475,Badge-Based STEM Assessment: Current Terrain and the Road Ahead,1/1/13 0:00,Pedagogical Approaches and Processes
+1316728,Common Online Data Analysis Platform (CODAP),10/1/13 0:00,Disciplinary Areas
+1318784,"EXP: ""Earthquake Rebuild"" - Mathematical Thinking and Learning via Architectural Design and Modeling",8/15/13 0:00,Disciplinary Areas
+1320693,EXP: Digital Lofts: Online Learning Environments for Real-World Innovation,9/15/13 0:00,Pedagogical Approaches and Processes
+1321045,EXP: Exploring Social Programming Environments in Early Computing Courses,9/15/13 0:00,Disciplinary Areas
+1321056,EXP: Transforming World Language Education using Social Robotics,9/1/13 0:00,Learning Environments and Platforms
+1321663,CAP: Partnerships for Indigenous Knowledge and Digital Literacies,7/1/13 0:00,Pedagogical Approaches and Processes
+1324047,DIP: BioSim: Developing a Wearable Toolkit for Teaching Complex Science Through Embodied Play,9/15/13 0:00,Pedagogical Approaches and Processes
+1324753,DIP: Collaborative Research: Taking Hands-on Experimentation to the Cloud: Comparing Physical and Virtual Models in Biology on a Massive Scale,9/15/13 0:00,Learning Processes and Theories
+1325004,"DIP: Developing Frameworks, Tools and Social Practices to Support Effective Instructor use of Online Social Learning Networks in Blended Learning Models",9/15/13 0:00,Learning Processes and Theories
+1435470,Common Online Data Analysis Platform (CODAP),2/1/14 0:00,Pedagogical Approaches and Processes
+1441527,DIP: Potential for everyday learning in a virtual community: A design-based investigation,10/1/14 0:00,Learning Environments and Platforms
+1503481,SimScientists Games: Development of Simulation-Based Game Designs to Enhance Formative Assessment and Deep Science Learning in Middle School,8/1/15 0:00,Pedagogical Approaches and Processes
+1504630,Implementing and Investigating Mathematical Modeling as a Means to Demonstrate the Interdisciplinary Nature of Science and Increase STEM Retention,7/1/15 0:00,AI Approaches and Technologies
+1504649,C3PO: Customizable Computer Coaches for Physics Online,7/1/15 0:00,AI Approaches and Technologies
+1504728,SciLAF: Scientific-based Learning Assessment Framework for Student Knowledge Tracking,8/15/15,AI Approaches and Technologies
+1515550,"Using Big Data and Visual Analytics to Investigate the Long-term, Cascading Effects of Informal STEM Learning",10/1/15 0:00,AI Approaches and Technologies
+1516684,Increasing Learning and Efficacy about Emerging Technologies through Transmedia Engagement by the Public in Science-in-Society Activities,8/1/15 0:00,Learning Environments and Platforms
+1516703,"SciStarter 2.0: A Dashboard to Drive Research, Participation, and Community-building in Citizen Science",10/15/15 0:00,Learning Environments and Platforms
+1522945,EXP: Promoting Learning through Annotation of Embodiment (PLAE),9/1/15 0:00,Pedagogical Approaches and Processes
+1523162,EXP: Partners in Learning: Building Rapport with a Virtual Peer Tutor,9/1/15 0:00,AI Approaches and Technologies
+1524990,Collaborative Research: Developing and Assessing Effective Cyberlearning within the STEMWiki Hyperlibrary,10/1/15 0:00,Pedagogical Approaches and Processes
+1525716,Collaborative Research: Integrated Development of Scalable Mobile Multidisciplinary Modules (SM3) for STEM Education,9/15/15 0:00,AI Approaches and Technologies
+1530578,DIP: Data Science Games - Student Immersion in Data Science Using Games for Learning in the Common Online Data Analysis Platform,10/1/15 0:00,Learning Environments and Platforms
+1530726,EXP: Helping Teachers Help Their Students: Teachers' Use of Intelligent Tutoring Software Analytics to Improve Student Learning,9/1/15 0:00,Learning Environments and Platforms
+1530833,DIP: Digital Studios for Social Innovation Networks,9/1/15 0:00,AI Approaches and Technologies
+1534626,Collaborative Research:  Investigating How English Language Learners Use Dynamic Representational Technology to Participate in Middle School Mathematical Practices,10/1/15,AI Approaches and Technologies
+1535337,Collaborative Research: The Downside of Perseverance--Investigating and Moving Students Beyond Unproductive Persistence,9/15/15 0:00,"Instruments, Assessment, and Measures"
+1550051,EAGER: Collaborative Research: Designing Digital Rails to Foster Scientific Curiosity around Museum Collections,9/1/15 0:00,Pedagogical Approaches and Processes
+1555550,Pilot Study: Creating a Special Collection of NSF-Funded Learning Resources to Support Core Ideas in High School Biology,9/1/15 0:00,Disciplinary Areas
+1561150,Collaborative Research: ArguLex--Applying Automated Analysis to a Learning Progression for Argumentation,9/1/16 0:00,Research Methods
+1612485,"Think Globally, Interact Locally: Advancing Science Learning using Interactive Spherical Displays to Model Global, Physical Systems",9/1/16 0:00,Other
+1612744,Intelligent Science Exhibits: Transforming Hands-on Exhibits into Mixed-Reality Learning Experiences,9/1/16 0:00,Pedagogical Approaches and Processes
+1614239,Collaborative Research: WAVES - A STEM-Powered Youth News Network for the Nation,9/1/16 0:00,Equity and Social Justice
+1621101,Workshop for Building a Network for Early Career Scholars of Games and Learning,9/1/16 0:00,AI Approaches and Technologies
+1622831,Doctoral Consortium for the 2016 Learning Analytics and Knowledge Conference,6/1/16 0:00,Disciplinary Areas
+1623561,EXP: Inclusive Design for Engaging All Learners (IDEAL): Designing Technology for Cultural Brokering,1/1/17 0:00,Equity and Social Justice
+1626939,Closing Gaps: Connecting Assessment and Culture to Increase Achievement,10/1/16 0:00,Learning Processes and Theories
+1628937,DIP: Game-based Assessment and Support of STEM-related Competencies,9/1/16 0:00,Learning Environments and Platforms
+1629045,EXP: Inq-Blotter - A Real Time Alerting Tool to Transform Teachers' Assessment of Science Inquiry Practices,9/1/16 0:00,AI Approaches and Technologies
+1629302,DIP: Collaborative Research: Interactive Science Through Technology Enhanced Play (iSTEP),9/1/16 0:00,AI Approaches and Technologies
+1644478,I-Corps-L project for the Commercialization of the Solar Energy Education Buddy (SEEB),8/1/16 0:00,Research Methods
+1705365,Collaborative Research: Optimizing learning from chemistry simulations: Comparing attention allocation and learning outcomes for assignments with and without instructor screencasts,8/15/17 0:00,Disciplinary Areas
+1712258,Code: SciGirls! Media to Engage Girls in Computing Pathways,9/1/17 0:00,Research Methods
+1712475,Student Engagement in Statistics Using Technology: Making Data Based Decisions,6/1/17 0:00,Capacity Building
+1713537,Virtual Ice Explorer: Immersively Experiencing Changing Glacial Landscapes,9/1/17 0:00,Learning Processes and Theories
+1721054,Science and Engineering Education for Infrastructure Transformation,10/1/17 0:00,Learning Processes and Theories
+1725554,Simulated Practice: Using Socially-Responsive Avatars to Prepare STEM Graduate Teaching Assistants for Student-Centered Instruction,11/15/17 0:00,Learning Environments and Platforms
+1726180,Grappling with Graphs: Researching and Improving Student Graphing Skills Using An Interactive Digital Graphing Tool,9/1/17 0:00,Learning Processes and Theories
+1735123,"EXP: Automatically Synthesizing Valid, Personalized, Formative Assessments of CS1 Concepts",9/1/17 0:00,Pedagogical Approaches and Processes
+1735836,EXP: Paper Mechatronics: Advancing Engineering Education Through Computationally Enhanced Children's Papercrafts,10/1/17 0:00,AI Approaches and Technologies
+1736051,Catalyzing Scientific Inquiry and Engineering through Wearable Intersubjective Sensation Devices,8/1/17 0:00,Learning Processes and Theories
+1736185,EXP: Collaborative Research: Empowering Learners to Conduct Experiments,9/1/17 0:00,AI Approaches and Technologies
+1736225,"EXP: To Enact, To Tell, To Write: A Bridge to Expressive Writing through Digital Enactment",9/1/17 0:00,AI Approaches and Technologies
+1736235,EXP: Social Science Education through Virtual Reality Simulation of an Archaeological Research Site,10/1/17 0:00,Disciplinary Areas
+1821319,Engaging Non-Science Majors in Authentic Research through Citizen Science,9/1/18 0:00,Learning Processes and Theories
+1821396,Collaborative Research: Interactive Video-Enhanced Tutorials on Problem Solving in Physics,10/1/18 0:00,Learning Processes and Theories
+1821852,Using Virtual Humans in 360-degree Immersive Digital Sites to Practice Communication Skills within Complex Spatiotemporal Contexts,10/1/18 0:00,AI Approaches and Technologies
+1821894,Collaborative Research: Multimodal Affective Pedagogical Agents for Different Types of Learners,8/1/18 0:00,AI Approaches and Technologies
+1822477,Leverage Augmented Reality for Safety Education in the Logistics Industry,9/1/18 0:00,Other
+1822728,Mapping Fields in Augmented Reality with Personal Mobile Devices:  Enhancing Visualization Skills for Education and Industry,7/15/18 0:00,Capacity Building
+1822768,Teachers are the Learners: Providing Automated Feedback on Classroom Inter-Personal Dynamics,8/1/18 0:00,Learning Processes and Theories
+1822796,Connections of Earth and Sky with Augmented Reality (CEASAR): Transforming Collaborative Learning Practices with Shared and Embedded Digital Models,10/1/18 0:00,Learning Processes and Theories
+1822813,"Cyberlearning: Sensei: High-Fidelity, Non-Invasive Classroom Sensing for Professional Development",9/1/18 0:00,Capacity Building
+1822876,Advancing the Use of Automated Dialogue Systems for Teaching Communication and Interpersonal Skills,10/1/18 0:00,AI Approaches and Technologies
+1822877,Technology Facilitated Training for Mental Health Counseling,8/1/18 0:00,Learning Processes and Theories
+1824727,Synthesis and Design Workshop: Digital Science and Data Analytic Learning Environments at Small Liberal Arts Institutions,9/1/18 0:00,Disciplinary Areas
+1824924,Synthesis and Design Workshop: Distributed Collaboration in STEM-Rich Project-Based Learning,9/1/18,Capacity Building
+1825076,"Synthesis and Design Workshop: Principles for the design of digitally-distributed, studio-based STEM learning environments",9/1/18 0:00,Analytics
+1834465,Leveraging Virtual Reality to Connect Learning and Integrate Course Knowledge in the Industrial Engineering Curriculum,10/1/18 0:00,Learning Environments and Platforms
+1839379,Signing Avatars & Immersive Learning (SAIL): Development and Testing of a Novel Embodied Learning Environment,8/1/18,Learning Processes and Theories
+1842220,Computer-Assisted Video Analysis Methods for Understanding Underrepresented Student Participation and Learning in Collaborative Learning Environments,9/1/18 0:00,AI Approaches and Technologies
+1845241,Practitioner Workshop for Deploying SciStarter Affiliate Tools To Support Strategic STEM Learning,9/1/18 0:00,Learning Environments and Platforms
+1917950,Broadening Participation for Remote Communities: Situated Distance Telepresence Mentoring through Embodied Communications,9/1/19 0:00,Capacity Building
+1917994,Exploring Social Learning in Collaborative Augmented Reality with Virtual Agents as Learning Companions,7/15/19 0:00,Capacity Building
+1123574,EXP: Augmenting Household Technologies for Learning and Whole Family Participation: Heating and Cooling Control as an Exploratory Case,9/1/11 0:00,Disciplinary Areas
+1123832,DIP: Interaction Research in Complex Informal Learning Environments,1/1/12 0:00,Disciplinary Areas
+1124281,DIP: Collaborative Research: Mixed-Reality Labs: Integrating Sensors and Simulations to Improve Learning,10/1/11 0:00,"Instruments, Assessment, and Measures"
+1147621,INDP: InquirySpace: Technologies in Support of Student Experimentation,6/1/12 0:00,AI Approaches and Technologies
+1216389,EXP: Transforming High School Science via Remote Online Labs,10/1/12 0:00,AI Approaches and Technologies
+1216994,EXP: Learning in the Making: Studying and Designing Makerspaces,9/1/12 0:00,AI Approaches and Technologies
+1217027,EXP: Implementing a Workflow Visualization System for Design-Based Research,10/1/12 0:00,Analytics
+1217087,EXP: Constructing Multimedia Artifacts Using a Video Repository,9/1/12 0:00,Learning Environments and Platforms
+1227168,DIP: 'Hard Fun' Learning Mathematics: Stimulating Number Sense,10/1/12 0:00,AI Approaches and Technologies
+1239599,CAP: Collaborative Research: Building a Network to Advance Collaborative Research on Young Children's Learning through Public Media Assets,1/1/13 0:00,AI Approaches and Technologies
+1254535,EAGER: A Prototype WorldWide Telescope Visualization Lab Designed in the Web-based Inquiry Science Environment,9/1/12 0:00,Learning Environments and Platforms
+1265475,Badge-Based STEM Assessment: Current Terrain and the Road Ahead,1/1/13 0:00,AI Approaches and Technologies
+1316728,Common Online Data Analysis Platform (CODAP),10/1/13 0:00,Learning Environments and Platforms
+1318784,"EXP: ""Earthquake Rebuild"" - Mathematical Thinking and Learning via Architectural Design and Modeling",8/15/13 0:00,Learning Environments and Platforms
+1318977,EXP: Exploring the potential of mobile augmented reality for scaffolding historical inquiry learning,9/1/13 0:00,Pedagogical Approaches and Processes
+1324753,DIP: Collaborative Research: Taking Hands-on Experimentation to the Cloud: Comparing Physical and Virtual Models in Biology on a Massive Scale,9/15/13 0:00,Pedagogical Approaches and Processes
+1324977,DIP: Community knowledge construction in the instrumented classroom,9/15/13 0:00,Disciplinary Areas
+1325004,"DIP: Developing Frameworks, Tools and Social Practices to Support Effective Instructor use of Online Social Learning Networks in Blended Learning Models",9/15/13 0:00,Learning Environments and Platforms
+1338487,BCC-SBE/EHR: Developing Community & Capacity to Measure Noncognitive Factors in Digital Learning Environments,9/15/13 0:00,"Instruments, Assessment, and Measures"
+1338508,BCC-EHR: Learning Games Playdata Consortium (PDC): A Consortium for Digital Analytics and Techniques for Assessment with Learning Games,9/15/13 0:00,Learning Environments and Platforms
+1435470,Common Online Data Analysis Platform (CODAP),2/1/14 0:00,AI Approaches and Technologies
+1441478,CBMS2015: A Study of Undergraduate Programs in the Mathematical and Statistical Sciences in the United States and the Publication of the Results,8/15/15 0:00,Analytics
+1441523,DIP: ScienceKit for ScienceEverywhere - A Seamless Scientizing Ecosystem for Raising Scientifically-Minded Children,10/1/14 0:00,Learning Environments and Platforms
+1457431,CAP: Innovating Data-driven Methodologies for Documenting and Studying Informal Learning,2/15/15 0:00,AI Approaches and Technologies
+1504692,COLLABORATIVE RESEARCH: TAILORED INSTRUCTIONS AND ENGINEERED DELIVERY USING PROTOCOLS (TIED UP),8/1/15 0:00,Learning Environments and Platforms
+1504792,"Development of a Simulation-Based Application for Teaching Human Physiology through Guided Discovery, Pure Discovery, and Authentic Research",8/1/15,AI Approaches and Technologies
+1513104,Collaborative Research:  An impact study to examine the efficacy of a mathematics professional development program for elementary teachers,9/1/15,Disciplinary Areas
+1513382,EAGER: Collaborative Research: Virtual STEM Buddies for Personalized Learning Experiences in Free Choice Informal Learning Settings,9/1/15 0:00,Pedagogical Approaches and Processes
+1516684,Increasing Learning and Efficacy about Emerging Technologies through Transmedia Engagement by the Public in Science-in-Society Activities,8/1/15 0:00,Pedagogical Approaches and Processes
+1516703,"SciStarter 2.0: A Dashboard to Drive Research, Participation, and Community-building in Citizen Science",10/15/15 0:00,Pedagogical Approaches and Processes
+1522990,EXP: Understanding Computational Thinking Process and Practices in Open-Ended Programming Environments,9/1/15 0:00,Disciplinary Areas
+1525103,Virtual Biology Lab 2.0: improving and implementing an inquiry-based educational resource,1/1/16,AI Approaches and Technologies
+1535337,Collaborative Research: The Downside of Perseverance--Investigating and Moving Students Beyond Unproductive Persistence,9/15/15 0:00,Pedagogical Approaches and Processes
+1550122,EAGER: Exploiting Keystroke Logging and Eye-Tracking to Support the Learning of Writing,9/1/15 0:00,AI Approaches and Technologies
+1551589,"INT: Collaborative Research: Detecting, Predicting and Remediating Student Affect and Grit Using Computer Vision",9/1/16 0:00,Disciplinary Areas
+1612485,"Think Globally, Interact Locally: Advancing Science Learning using Interactive Spherical Displays to Model Global, Physical Systems",9/1/16 0:00,Analytics
+1612744,Intelligent Science Exhibits: Transforming Hands-on Exhibits into Mixed-Reality Learning Experiences,9/1/16 0:00,AI Approaches and Technologies
+1614847,Making it Stick!  Mobile Apps to Pedagogically Support Retrieval Practices,9/1/16 0:00,Capacity Building
+1623419,EXP: Fostering Self-Correcting Reasoning with Reflection Systems,9/1/16 0:00,Other
+1623561,EXP: Inclusive Design for Engaging All Learners (IDEAL): Designing Technology for Cultural Brokering,1/1/17 0:00,Disciplinary Areas
+1623622,EXP: Collaborative Research: Perception and Production in Second Language: The Roles of Voice Variability and Familiarity,8/1/16 0:00,Learning Processes and Theories
+1623635,EXP: Agile Research Studios: Scaling Cognitive Apprenticeship to Advance Undergraduate and Graduate Research Training in STEM,9/1/16 0:00,Research Methods
+1626939,Closing Gaps: Connecting Assessment and Culture to Increase Achievement,10/1/16 0:00,Equity and Social Justice
+1628937,DIP: Game-based Assessment and Support of STEM-related Competencies,9/1/16 0:00,Disciplinary Areas
+1628976,DIP: Improving Collaborative Learning in Engineering Classes Through Integrated Tools,9/1/16 0:00,Learning Processes and Theories
+1629302,DIP: Collaborative Research: Interactive Science Through Technology Enhanced Play (iSTEP),9/1/16 0:00,Disciplinary Areas
+1637350,EAGER: Smart and Connected Communities: Reducing Friction in the L3 Connects Infrastructure: Embedding a recommender system into mobile apps to support real-time brokering,9/15/16 0:00,Learning Processes and Theories
+1644478,I-Corps-L project for the Commercialization of the Solar Energy Education Buddy (SEEB),8/1/16 0:00,Learning Processes and Theories
+1645102,EAGER: Mobile City Science: Youth Mapping Community Learning Opportunities,9/1/16 0:00,Equity and Social Justice
+1705365,Collaborative Research: Optimizing learning from chemistry simulations: Comparing attention allocation and learning outcomes for assignments with and without instructor screencasts,8/15/17 0:00,Learning Environments and Platforms
+1712475,Student Engagement in Statistics Using Technology: Making Data Based Decisions,6/1/17 0:00,Learning Processes and Theories
+1725347,Collaborative Research: Implementing 21st century geodesy learning through faculty development and expanded applications of data to societal issues,8/1/17 0:00,Capacity Building
+1725554,Simulated Practice: Using Socially-Responsive Avatars to Prepare STEM Graduate Teaching Assistants for Student-Centered Instruction,11/15/17 0:00,Capacity Building
+1735123,"EXP: Automatically Synthesizing Valid, Personalized, Formative Assessments of CS1 Concepts",9/1/17 0:00,Learning Processes and Theories
+1735878,"EXP: Collaborative Research: Cultivating Apprenticeship Learning for Architecture, Engineering, and Construction Using Mixed Reality",9/1/17 0:00,Learning Processes and Theories
+1735977,EXP: Readily Available Learning Experiences: Turning the Entire Web into Progressive Examples to Bridge Conceptual Knowledge Gaps for Novice Web Developers,9/1/17 0:00,Disciplinary Areas
+1736235,EXP: Social Science Education through Virtual Reality Simulation of an Archaeological Research Site,10/1/17 0:00,Capacity Building
+1820766,"A Data-Driven, Multidisciplinary Curriculum Providing Access to the Data Analytics Economy through Project-based Learning",10/1/18 0:00,Learning Processes and Theories
+1821852,Using Virtual Humans in 360-degree Immersive Digital Sites to Practice Communication Skills within Complex Spatiotemporal Contexts,10/1/18 0:00,Learning Processes and Theories
+1821894,Collaborative Research: Multimodal Affective Pedagogical Agents for Different Types of Learners,8/1/18 0:00,Learning Environments and Platforms
+1822796,Connections of Earth and Sky with Augmented Reality (CEASAR): Transforming Collaborative Learning Practices with Shared and Embedded Digital Models,10/1/18 0:00,Other
+1822813,"Cyberlearning: Sensei: High-Fidelity, Non-Invasive Classroom Sensing for Professional Development",9/1/18 0:00,Other
+1822819,Collaborative Research: Teaching Human Motion Tasks at Population Scale,9/15/18 0:00,Equity and Social Justice
+1822861,Human/AI Co-Orchestration of Dynamically-Differentiated Collaborative Classrooms,9/1/18 0:00,Disciplinary Areas
+1822865,Designing and Evaluating a Naturalistic Platform for Collaborative Learning About Spatial Reasonings,9/1/18 0:00,Equity and Social Justice
+1822876,Advancing the Use of Automated Dialogue Systems for Teaching Communication and Interpersonal Skills,10/1/18 0:00,Learning Environments and Platforms
+1824727,Synthesis and Design Workshop: Digital Science and Data Analytic Learning Environments at Small Liberal Arts Institutions,9/1/18 0:00,AI Approaches and Technologies
+1824854,Synthesis and design workshop: Designing Scalable Advanced Learning Ecosystems,9/1/18,Capacity Building
+1825076,"Synthesis and Design Workshop: Principles for the design of digitally-distributed, studio-based STEM learning environments",9/1/18 0:00,AI Approaches and Technologies
+1834465,Leveraging Virtual Reality to Connect Learning and Integrate Course Knowledge in the Industrial Engineering Curriculum,10/1/18 0:00,Equity and Social Justice
+1842220,Computer-Assisted Video Analysis Methods for Understanding Underrepresented Student Participation and Learning in Collaborative Learning Environments,9/1/18 0:00,Learning Processes and Theories
+1842334,EAGER: Discussion Tracker: Development of Human Language Technologies to Improve the Teaching of Collaborative Argumentation in High School English Classrooms,9/1/18 0:00,AI Approaches and Technologies
+1123574,EXP: Augmenting Household Technologies for Learning and Whole Family Participation: Heating and Cooling Control as an Exploratory Case,9/1/11 0:00,Learning Environments and Platforms
+1123832,DIP: Interaction Research in Complex Informal Learning Environments,1/1/12 0:00,Learning Environments and Platforms
+1123965,EXP: Collaborative Research: Using Smartphone-Based Participatory Simulations to Engage Children in Scientific Thinking,9/1/11 0:00,Learning Environments and Platforms
+1123972,DIP: Collaborative Research: Transforming Science Learning with an Interactive Web Environment for Data Sharing and Visualization,9/1/11 0:00,Pedagogical Approaches and Processes
+1124240,DIP: Exploiting Longitudinal Electroencephalogram (EEG) Input in a Reading Tutor,9/1/11 0:00,Learning Processes and Theories
+1124281,DIP: Collaborative Research: Mixed-Reality Labs: Integrating Sensors and Simulations to Improve Learning,10/1/11 0:00,Learning Environments and Platforms
+1147621,INDP: InquirySpace: Technologies in Support of Student Experimentation,6/1/12 0:00,Learning Environments and Platforms
+1216977,EXP: Building a Learning Analytics System to Improve Student Learning and Promote Adaptive Teaching Across Multiple Domains,9/1/12 0:00,Learning Processes and Theories
+1227245,DIP: Using dynamic formative assessment models to enhance learning of the experimental process in biology,10/1/12 0:00,AI Approaches and Technologies
+1239599,CAP: Collaborative Research: Building a Network to Advance Collaborative Research on Young Children's Learning through Public Media Assets,1/1/13 0:00,Disciplinary Areas
+1248066,INSPIRE: Kreyol-based Cyberlearning for a New Perspective on the Teaching of STEM in local Languages,1/1/13 0:00,AI Approaches and Technologies
+1265475,Badge-Based STEM Assessment: Current Terrain and the Road Ahead,1/1/13 0:00,Learning Processes and Theories
+1319938,EXP: Macro Data for Micro Learning: Developing FUN! for Automated Assessment of Computational Thinking in Scratch,8/15/13 0:00,Other
+1323767,DIP: The Science Through Technology Enhanced Play (STEP),9/15/13 0:00,AI Approaches and Technologies
+1324753,DIP: Collaborative Research: Taking Hands-on Experimentation to the Cloud: Comparing Physical and Virtual Models in Biology on a Massive Scale,9/15/13 0:00,AI Approaches and Technologies
+1441478,CBMS2015: A Study of Undergraduate Programs in the Mathematical and Statistical Sciences in the United States and the Publication of the Results,8/15/15 0:00,Learning Environments and Platforms
+1451604,"INT: Project Learning with Automated, Networked Supports (PLANS)",5/1/15 0:00,AI Approaches and Technologies
+1503481,SimScientists Games: Development of Simulation-Based Game Designs to Enhance Formative Assessment and Deep Science Learning in Middle School,8/1/15 0:00,AI Approaches and Technologies
+1504692,COLLABORATIVE RESEARCH: TAILORED INSTRUCTIONS AND ENGINEERED DELIVERY USING PROTOCOLS (TIED UP),8/1/15 0:00,Learning Processes and Theories
+1513104,Collaborative Research:  An impact study to examine the efficacy of a mathematics professional development program for elementary teachers,9/1/15,Capacity Building
+1522990,EXP: Understanding Computational Thinking Process and Practices in Open-Ended Programming Environments,9/1/15 0:00,Research Methods
+1535337,Collaborative Research: The Downside of Perseverance--Investigating and Moving Students Beyond Unproductive Persistence,9/15/15 0:00,Learning Environments and Platforms
+1550051,EAGER: Collaborative Research: Designing Digital Rails to Foster Scientific Curiosity around Museum Collections,9/1/15 0:00,AI Approaches and Technologies
+1555550,Pilot Study: Creating a Special Collection of NSF-Funded Learning Resources to Support Core Ideas in High School Biology,9/1/15 0:00,AI Approaches and Technologies
+1612744,Intelligent Science Exhibits: Transforming Hands-on Exhibits into Mixed-Reality Learning Experiences,9/1/16 0:00,Disciplinary Areas
+1614239,Collaborative Research: WAVES - A STEM-Powered Youth News Network for the Nation,9/1/16 0:00,Disciplinary Areas
+1621101,Workshop for Building a Network for Early Career Scholars of Games and Learning,9/1/16 0:00,Research Methods
+1623622,EXP: Collaborative Research: Perception and Production in Second Language: The Roles of Voice Variability and Familiarity,8/1/16 0:00,Disciplinary Areas
+1623635,EXP: Agile Research Studios: Scaling Cognitive Apprenticeship to Advance Undergraduate and Graduate Research Training in STEM,9/1/16 0:00,Learning Environments and Platforms
+1626602,Engaged Student Learning: Coalition for Undergraduate Computational Data-enabled Science & Engineering (CDSE) Education,1/15/17 0:00,Disciplinary Areas
+1628937,DIP: Game-based Assessment and Support of STEM-related Competencies,9/1/16 0:00,Research Methods
+1628976,DIP: Improving Collaborative Learning in Engineering Classes Through Integrated Tools,9/1/16 0:00,Research Methods
+1629045,EXP: Inq-Blotter - A Real Time Alerting Tool to Transform Teachers' Assessment of Science Inquiry Practices,9/1/16 0:00,Research Methods
+1644478,I-Corps-L project for the Commercialization of the Solar Energy Education Buddy (SEEB),8/1/16 0:00,Analytics
+1705365,Collaborative Research: Optimizing learning from chemistry simulations: Comparing attention allocation and learning outcomes for assignments with and without instructor screencasts,8/15/17 0:00,Other
+1712475,Student Engagement in Statistics Using Technology: Making Data Based Decisions,6/1/17 0:00,Other
+1713537,Virtual Ice Explorer: Immersively Experiencing Changing Glacial Landscapes,9/1/17 0:00,Other
+1725347,Collaborative Research: Implementing 21st century geodesy learning through faculty development and expanded applications of data to societal issues,8/1/17 0:00,Other
+1735977,EXP: Readily Available Learning Experiences: Turning the Entire Web into Progressive Examples to Bridge Conceptual Knowledge Gaps for Novice Web Developers,9/1/17 0:00,Other
+1736185,EXP: Collaborative Research: Empowering Learners to Conduct Experiments,9/1/17 0:00,Learning Processes and Theories
+1736235,EXP: Social Science Education through Virtual Reality Simulation of an Archaeological Research Site,10/1/17 0:00,Learning Processes and Theories
+1820766,"A Data-Driven, Multidisciplinary Curriculum Providing Access to the Data Analytics Economy through Project-based Learning",10/1/18 0:00,Other
+1822728,Mapping Fields in Augmented Reality with Personal Mobile Devices:  Enhancing Visualization Skills for Education and Industry,7/15/18 0:00,Other
+1822768,Teachers are the Learners: Providing Automated Feedback on Classroom Inter-Personal Dynamics,8/1/18 0:00,Other
+1822819,Collaborative Research: Teaching Human Motion Tasks at Population Scale,9/15/18 0:00,Learning Processes and Theories
+1822865,Designing and Evaluating a Naturalistic Platform for Collaborative Learning About Spatial Reasonings,9/1/18 0:00,Learning Processes and Theories
+1822876,Advancing the Use of Automated Dialogue Systems for Teaching Communication and Interpersonal Skills,10/1/18 0:00,Learning Processes and Theories
+1825076,"Synthesis and Design Workshop: Principles for the design of digitally-distributed, studio-based STEM learning environments",9/1/18 0:00,Learning Processes and Theories
+1839379,Signing Avatars & Immersive Learning (SAIL): Development and Testing of a Novel Embodied Learning Environment,8/1/18,AI Approaches and Technologies
+1842220,Computer-Assisted Video Analysis Methods for Understanding Underrepresented Student Participation and Learning in Collaborative Learning Environments,9/1/18 0:00,Disciplinary Areas
+1842334,EAGER: Discussion Tracker: Development of Human Language Technologies to Improve the Teaching of Collaborative Argumentation in High School English Classrooms,9/1/18 0:00,Disciplinary Areas
+1845241,Practitioner Workshop for Deploying SciStarter Affiliate Tools To Support Strategic STEM Learning,9/1/18 0:00,Learning Processes and Theories
+1122504,DIP: Teaching Writing and Argumentation with AI-Supported Diagramming and Peer Review,9/1/11 0:00,Other
+1123965,EXP: Collaborative Research: Using Smartphone-Based Participatory Simulations to Engage Children in Scientific Thinking,9/1/11 0:00,Disciplinary Areas
+1217027,EXP: Implementing a Workflow Visualization System for Design-Based Research,10/1/12 0:00,Research Methods
+1217317,EXP: Educating Teens to Understand Personal Health (GET-UP),9/1/12 0:00,Learning Environments and Platforms
+1248066,INSPIRE: Kreyol-based Cyberlearning for a New Perspective on the Teaching of STEM in local Languages,1/1/13 0:00,Learning Environments and Platforms
+1258471,EAGER: SAVI: Dynamic Digital Text: An Innovation in STEM Education,1/1/13 0:00,Pedagogical Approaches and Processes
+1319938,EXP: Macro Data for Micro Learning: Developing FUN! for Automated Assessment of Computational Thinking in Scratch,8/15/13 0:00,Analytics
+1320693,EXP: Digital Lofts: Online Learning Environments for Real-World Innovation,9/15/13 0:00,AI Approaches and Technologies
+1323767,DIP: The Science Through Technology Enhanced Play (STEP),9/15/13 0:00,Disciplinary Areas
+1324807,DIP: EMBRACEing English Language Learners with Technology,9/15/13 0:00,"Instruments, Assessment, and Measures"
+1338487,BCC-SBE/EHR: Developing Community & Capacity to Measure Noncognitive Factors in Digital Learning Environments,9/15/13 0:00,Research Methods
+1349082,EAGER: TAEMILE: Towards Automating Experience Management in Interactive Learning Environments,9/1/13 0:00,Learning Environments and Platforms
+1441478,CBMS2015: A Study of Undergraduate Programs in the Mathematical and Statistical Sciences in the United States and the Publication of the Results,8/15/15 0:00,Pedagogical Approaches and Processes
+1504718,"Collaborative Research: Leveraging ""Big Data"" to Explore Big Ideas: Utilizing the Paleobiology Database to Provide Hands-on Research Opportunities for Undergraduates",6/15/15,Learning Environments and Platforms
+1525112,Collaborative Research: Engaged Student Learning - Design and Development Level II: Using a Cyberlearning Environment to Improve Student Learning and Engagement in Software Courses,9/1/15,Disciplinary Areas
+1550055,EAGER: Collaborative Research: Designing Digital Rails to Foster Scientific Curiosity around Museum Collections,9/1/15 0:00,"Instruments, Assessment, and Measures"
+1623419,EXP: Fostering Self-Correcting Reasoning with Reflection Systems,9/1/16 0:00,Learning Processes and Theories
+1628976,DIP: Improving Collaborative Learning in Engineering Classes Through Integrated Tools,9/1/16 0:00,Disciplinary Areas
+1652372,NetStat: EAGER:  A Representation and Communication Infrastructure for Classroom Collaboration in Data Modeling and Statistics,9/1/16 0:00,Research Methods
+1726180,Grappling with Graphs: Researching and Improving Student Graphing Skills Using An Interactive Digital Graphing Tool,9/1/17 0:00,Other
+1735977,EXP: Readily Available Learning Experiences: Turning the Entire Web into Progressive Examples to Bridge Conceptual Knowledge Gaps for Novice Web Developers,9/1/17 0:00,Research Methods
+1822813,"Cyberlearning: Sensei: High-Fidelity, Non-Invasive Classroom Sensing for Professional Development",9/1/18 0:00,Learning Processes and Theories
+1822819,Collaborative Research: Teaching Human Motion Tasks at Population Scale,9/15/18 0:00,Disciplinary Areas
+1842334,EAGER: Discussion Tracker: Development of Human Language Technologies to Improve the Teaching of Collaborative Argumentation in High School English Classrooms,9/1/18 0:00,Other
+1217100,"EXP: SiMSAM: Bridging Student, Scientific, and Mathematical Models with Expressive Technologies",9/1/12 0:00,Other
+1318345,EXP: RUI: Exploring Spatial-Temporal Anchored Collaboration in Asynchronous Learning Experiences,9/15/13 0:00,Other
+1319938,EXP: Macro Data for Micro Learning: Developing FUN! for Automated Assessment of Computational Thinking in Scratch,8/15/13 0:00,Research Methods
+1320259,EXP: GeoGames - online map games for teaching and learning through a real-world spatial perspective,10/1/13 0:00,Disciplinary Areas
+1349082,EAGER: TAEMILE: Towards Automating Experience Management in Interactive Learning Environments,9/1/13 0:00,Analytics
+1122504,DIP: Teaching Writing and Argumentation with AI-Supported Diagramming and Peer Review,9/1/11 0:00,Disciplinary Areas
+1124281,DIP: Collaborative Research: Mixed-Reality Labs: Integrating Sensors and Simulations to Improve Learning,10/1/11 0:00,AI Approaches and Technologies
+1217100,"EXP: SiMSAM: Bridging Student, Scientific, and Mathematical Models with Expressive Technologies",9/1/12 0:00,Pedagogical Approaches and Processes
+1217301,"EXP: Deepening Conceptual Understanding with Hands-on, Augmented-Reality Experimentation",9/1/12 0:00,Learning Environments and Platforms
+1318345,EXP: RUI: Exploring Spatial-Temporal Anchored Collaboration in Asynchronous Learning Experiences,9/15/13 0:00,"Instruments, Assessment, and Measures"
+1324807,DIP: EMBRACEing English Language Learners with Technology,9/15/13 0:00,Disciplinary Areas
+1343227,EAGER: Foundations for Advancing Computational Thinking (FACT): Learning and Assessment through an Online Middle School Curriculum,10/1/13 0:00,Disciplinary Areas
+1441478,CBMS2015: A Study of Undergraduate Programs in the Mathematical and Statistical Sciences in the United States and the Publication of the Results,8/15/15 0:00,AI Approaches and Technologies
+1504630,Implementing and Investigating Mathematical Modeling as a Means to Demonstrate the Interdisciplinary Nature of Science and Increase STEM Retention,7/1/15 0:00,Learning Processes and Theories
+1504649,C3PO: Customizable Computer Coaches for Physics Online,7/1/15 0:00,Equity and Social Justice
+1505058,PERKS: Power Electronics Refined learning via affordable Kit and Software tutor,8/15/15,Learning Processes and Theories
+1506724,RAPID: Collaborative Research: Learning about Infectious Diseases through Online Participation in a Virtual Epidemic,9/1/15 0:00,Learning Environments and Platforms
+1515550,"Using Big Data and Visual Analytics to Investigate the Long-term, Cascading Effects of Informal STEM Learning",10/1/15 0:00,Learning Processes and Theories
+1530833,DIP: Digital Studios for Social Innovation Networks,9/1/15 0:00,Learning Processes and Theories
+1534626,Collaborative Research:  Investigating How English Language Learners Use Dynamic Representational Technology to Participate in Middle School Mathematical Practices,10/1/15,Research Methods
+1550902,EAGER: Cyberlearning: Towards Virtual Worlds that Afford Knowledge Integration Across Project Challenges and Disciplines,10/1/15 0:00,Research Methods
+1736225,"EXP: To Enact, To Tell, To Write: A Bridge to Expressive Writing through Digital Enactment",9/1/17 0:00,Learning Processes and Theories
+1822877,Technology Facilitated Training for Mental Health Counseling,8/1/18 0:00,AI Approaches and Technologies
+1124175,EXP: CTSiM: Fostering Computational Thinking in Middle Schools through Scientific Modeling and Simulation,9/1/11 0:00,Other
+1124176,"EXP: Developing Science, Technology, Engineering, and Math ( STEM) Identities through Participation in Science-Infused Media and Virtual Peer Networks",9/1/11 0:00,Other
+1124281,DIP: Collaborative Research: Mixed-Reality Labs: Integrating Sensors and Simulations to Improve Learning,10/1/11 0:00,Disciplinary Areas
+1217301,"EXP: Deepening Conceptual Understanding with Hands-on, Augmented-Reality Experimentation",9/1/12 0:00,Other
+1318345,EXP: RUI: Exploring Spatial-Temporal Anchored Collaboration in Asynchronous Learning Experiences,9/15/13 0:00,Disciplinary Areas
+1321045,EXP: Exploring Social Programming Environments in Early Computing Courses,9/15/13 0:00,Other
+1343227,EAGER: Foundations for Advancing Computational Thinking (FACT): Learning and Assessment through an Online Middle School Curriculum,10/1/13 0:00,Other
+1349082,EAGER: TAEMILE: Towards Automating Experience Management in Interactive Learning Environments,9/1/13 0:00,Disciplinary Areas
+1502882,Zoombinis: The Full Development Implementation Research Study of a Computational Thinking Game for Upper Elementary and Middle School Learners,7/15/15,Learning Processes and Theories
+1504880,"Promoting the Development of Metacognition and Combating Robust Misconceptions In a Gateway STEM Course Using an Intelligent, Web-based Homework System",6/15/15,Learning Environments and Platforms
+1525112,Collaborative Research: Engaged Student Learning - Design and Development Level II: Using a Cyberlearning Environment to Improve Student Learning and Engagement in Software Courses,9/1/15,AI Approaches and Technologies
+1530833,DIP: Digital Studios for Social Innovation Networks,9/1/15 0:00,Research Methods
+1534626,Collaborative Research:  Investigating How English Language Learners Use Dynamic Representational Technology to Participate in Middle School Mathematical Practices,10/1/15,Disciplinary Areas
+1550055,EAGER: Collaborative Research: Designing Digital Rails to Foster Scientific Curiosity around Museum Collections,9/1/15 0:00,Pedagogical Approaches and Processes
+1736225,"EXP: To Enact, To Tell, To Write: A Bridge to Expressive Writing through Digital Enactment",9/1/17 0:00,Disciplinary Areas
+1822477,Leverage Augmented Reality for Safety Education in the Logistics Industry,9/1/18 0:00,Capacity Building
+1822877,Technology Facilitated Training for Mental Health Counseling,8/1/18 0:00,Capacity Building
+1122504,DIP: Teaching Writing and Argumentation with AI-Supported Diagramming and Peer Review,9/1/11 0:00,Research Methods
+1135523,CI-TEAM Demo: Environmental CyberCitizens: Engaging Citizen Scientists in Global Environmental Change through Crowdsensing and Visualization,9/1/11,Other
+1216389,EXP: Transforming High School Science via Remote Online Labs,10/1/12 0:00,Analytics
+1217100,"EXP: SiMSAM: Bridging Student, Scientific, and Mathematical Models with Expressive Technologies",9/1/12 0:00,AI Approaches and Technologies
+1217301,"EXP: Deepening Conceptual Understanding with Hands-on, Augmented-Reality Experimentation",9/1/12 0:00,Analytics
+1258446,EAGER: Promoting algebra learning through an accessible expression system for students with visual impairments and blindness,10/1/12 0:00,Equity and Social Justice
+1318977,EXP: Exploring the potential of mobile augmented reality for scaffolding historical inquiry learning,9/1/13 0:00,Learning Environments and Platforms
+1321663,CAP: Partnerships for Indigenous Knowledge and Digital Literacies,7/1/13 0:00,Other
+1324977,DIP: Community knowledge construction in the instrumented classroom,9/15/13 0:00,Learning Environments and Platforms
+1349082,EAGER: TAEMILE: Towards Automating Experience Management in Interactive Learning Environments,9/1/13 0:00,Research Methods
+1457431,CAP: Innovating Data-driven Methodologies for Documenting and Studying Informal Learning,2/15/15 0:00,Analytics
+1504630,Implementing and Investigating Mathematical Modeling as a Means to Demonstrate the Interdisciplinary Nature of Science and Increase STEM Retention,7/1/15 0:00,Learning Environments and Platforms
+1504792,"Development of a Simulation-Based Application for Teaching Human Physiology through Guided Discovery, Pure Discovery, and Authentic Research",8/1/15,Equity and Social Justice
+1505058,PERKS: Power Electronics Refined learning via affordable Kit and Software tutor,8/15/15,Pedagogical Approaches and Processes
+1522945,EXP: Promoting Learning through Annotation of Embodiment (PLAE),9/1/15 0:00,Learning Processes and Theories
+1524990,Collaborative Research: Developing and Assessing Effective Cyberlearning within the STEMWiki Hyperlibrary,10/1/15 0:00,Learning Processes and Theories
+1525716,Collaborative Research: Integrated Development of Scalable Mobile Multidisciplinary Modules (SM3) for STEM Education,9/15/15 0:00,"Instruments, Assessment, and Measures"
+1550902,EAGER: Cyberlearning: Towards Virtual Worlds that Afford Knowledge Integration Across Project Challenges and Disciplines,10/1/15 0:00,Learning Processes and Theories
+1629161,EXP: Assessing 'Complex Epistemic Performance' in Online Learning Environments,9/1/16 0:00,AI Approaches and Technologies
+1124176,"EXP: Developing Science, Technology, Engineering, and Math ( STEM) Identities through Participation in Science-Infused Media and Virtual Peer Networks",9/1/11 0:00,Learning Environments and Platforms
+1321663,CAP: Partnerships for Indigenous Knowledge and Digital Literacies,7/1/13 0:00,Learning Environments and Platforms
+1504649,C3PO: Customizable Computer Coaches for Physics Online,7/1/15 0:00,Other
+1504728,SciLAF: Scientific-based Learning Assessment Framework for Student Knowledge Tracking,8/15/15,Pedagogical Approaches and Processes
+1504880,"Promoting the Development of Metacognition and Combating Robust Misconceptions In a Gateway STEM Course Using an Intelligent, Web-based Homework System",6/15/15,Disciplinary Areas
+1513086,"GeniConnect: Game-based learning, mentoring, and laboratory experiences - A model for industry-afterschool partnerships",9/1/15,Disciplinary Areas
+1550055,EAGER: Collaborative Research: Designing Digital Rails to Foster Scientific Curiosity around Museum Collections,9/1/15 0:00,AI Approaches and Technologies
+1122573,EXP: Fostering Collective Progress in Online Discourse for Sustained Knowledge Building,9/1/11 0:00,Analytics
+1124175,EXP: CTSiM: Fostering Computational Thinking in Middle Schools through Scientific Modeling and Simulation,9/1/11 0:00,AI Approaches and Technologies
+1124240,DIP: Exploiting Longitudinal Electroencephalogram (EEG) Input in a Reading Tutor,9/1/11 0:00,"Instruments, Assessment, and Measures"
+1147621,INDP: InquirySpace: Technologies in Support of Student Experimentation,6/1/12 0:00,Other
+1216389,EXP: Transforming High School Science via Remote Online Labs,10/1/12 0:00,Learning Environments and Platforms
+1216977,EXP: Building a Learning Analytics System to Improve Student Learning and Promote Adaptive Teaching Across Multiple Domains,9/1/12 0:00,Other
+1216994,EXP: Learning in the Making: Studying and Designing Makerspaces,9/1/12 0:00,Research Methods
+1217087,EXP: Constructing Multimedia Artifacts Using a Video Repository,9/1/12 0:00,Pedagogical Approaches and Processes
+1227168,DIP: 'Hard Fun' Learning Mathematics: Stimulating Number Sense,10/1/12 0:00,Learning Environments and Platforms
+1227245,DIP: Using dynamic formative assessment models to enhance learning of the experimental process in biology,10/1/12 0:00,"Instruments, Assessment, and Measures"
+1258446,EAGER: Promoting algebra learning through an accessible expression system for students with visual impairments and blindness,10/1/12 0:00,Learning Environments and Platforms
+1265475,Badge-Based STEM Assessment: Current Terrain and the Road Ahead,1/1/13 0:00,"Instruments, Assessment, and Measures"
+1318977,EXP: Exploring the potential of mobile augmented reality for scaffolding historical inquiry learning,9/1/13 0:00,Other
+1321056,EXP: Transforming World Language Education using Social Robotics,9/1/13 0:00,Disciplinary Areas
+1457431,CAP: Innovating Data-driven Methodologies for Documenting and Studying Informal Learning,2/15/15 0:00,Capacity Building
+1503481,SimScientists Games: Development of Simulation-Based Game Designs to Enhance Formative Assessment and Deep Science Learning in Middle School,8/1/15 0:00,Learning Processes and Theories
+1504728,SciLAF: Scientific-based Learning Assessment Framework for Student Knowledge Tracking,8/15/15,Disciplinary Areas
+1504792,"Development of a Simulation-Based Application for Teaching Human Physiology through Guided Discovery, Pure Discovery, and Authentic Research",8/1/15,Disciplinary Areas
+1505058,PERKS: Power Electronics Refined learning via affordable Kit and Software tutor,8/15/15,Other
+1516703,"SciStarter 2.0: A Dashboard to Drive Research, Participation, and Community-building in Citizen Science",10/15/15 0:00,Analytics
+1530726,EXP: Helping Teachers Help Their Students: Teachers' Use of Intelligent Tutoring Software Analytics to Improve Student Learning,9/1/15 0:00,AI Approaches and Technologies
+1550055,EAGER: Collaborative Research: Designing Digital Rails to Foster Scientific Curiosity around Museum Collections,9/1/15 0:00,Research Methods
+1555550,Pilot Study: Creating a Special Collection of NSF-Funded Learning Resources to Support Core Ideas in High School Biology,9/1/15 0:00,Learning Processes and Theories
+1735836,EXP: Paper Mechatronics: Advancing Engineering Education Through Computationally Enhanced Children's Papercrafts,10/1/17 0:00,Disciplinary Areas
+1822768,Teachers are the Learners: Providing Automated Feedback on Classroom Inter-Personal Dynamics,8/1/18 0:00,Analytics
+1825076,"Synthesis and Design Workshop: Principles for the design of digitally-distributed, studio-based STEM learning environments",9/1/18 0:00,Pedagogical Approaches and Processes
+1122573,EXP: Fostering Collective Progress in Online Discourse for Sustained Knowledge Building,9/1/11 0:00,"Instruments, Assessment, and Measures"
+1147621,INDP: InquirySpace: Technologies in Support of Student Experimentation,6/1/12 0:00,Pedagogical Approaches and Processes
+1216977,EXP: Building a Learning Analytics System to Improve Student Learning and Promote Adaptive Teaching Across Multiple Domains,9/1/12 0:00,Analytics
+1216994,EXP: Learning in the Making: Studying and Designing Makerspaces,9/1/12 0:00,Disciplinary Areas
+1227168,DIP: 'Hard Fun' Learning Mathematics: Stimulating Number Sense,10/1/12 0:00,Disciplinary Areas
+1254535,EAGER: A Prototype WorldWide Telescope Visualization Lab Designed in the Web-based Inquiry Science Environment,9/1/12 0:00,Analytics
+1258446,EAGER: Promoting algebra learning through an accessible expression system for students with visual impairments and blindness,10/1/12 0:00,Disciplinary Areas
+1321663,CAP: Partnerships for Indigenous Knowledge and Digital Literacies,7/1/13 0:00,Disciplinary Areas
+1324047,DIP: BioSim: Developing a Wearable Toolkit for Teaching Complex Science Through Embodied Play,9/15/13 0:00,Other
+1324977,DIP: Community knowledge construction in the instrumented classroom,9/15/13 0:00,Other
+1513382,EAGER: Collaborative Research: Virtual STEM Buddies for Personalized Learning Experiences in Free Choice Informal Learning Settings,9/1/15 0:00,AI Approaches and Technologies
+1516703,"SciStarter 2.0: A Dashboard to Drive Research, Participation, and Community-building in Citizen Science",10/15/15 0:00,Disciplinary Areas
+1622831,Doctoral Consortium for the 2016 Learning Analytics and Knowledge Conference,6/1/16 0:00,Capacity Building
+1735123,"EXP: Automatically Synthesizing Valid, Personalized, Formative Assessments of CS1 Concepts",9/1/17 0:00,Other
+1735836,EXP: Paper Mechatronics: Advancing Engineering Education Through Computationally Enhanced Children's Papercrafts,10/1/17 0:00,Pedagogical Approaches and Processes
+1822728,Mapping Fields in Augmented Reality with Personal Mobile Devices:  Enhancing Visualization Skills for Education and Industry,7/15/18 0:00,Analytics
+1822768,Teachers are the Learners: Providing Automated Feedback on Classroom Inter-Personal Dynamics,8/1/18 0:00,AI Approaches and Technologies
+1822865,Designing and Evaluating a Naturalistic Platform for Collaborative Learning About Spatial Reasonings,9/1/18 0:00,Disciplinary Areas
+1822876,Advancing the Use of Automated Dialogue Systems for Teaching Communication and Interpersonal Skills,10/1/18 0:00,Capacity Building
+1824727,Synthesis and Design Workshop: Digital Science and Data Analytic Learning Environments at Small Liberal Arts Institutions,9/1/18 0:00,Analytics
+1825076,"Synthesis and Design Workshop: Principles for the design of digitally-distributed, studio-based STEM learning environments",9/1/18 0:00,Capacity Building
+1122573,EXP: Fostering Collective Progress in Online Discourse for Sustained Knowledge Building,9/1/11 0:00,Pedagogical Approaches and Processes
+1123832,DIP: Interaction Research in Complex Informal Learning Environments,1/1/12 0:00,Other
+1124240,DIP: Exploiting Longitudinal Electroencephalogram (EEG) Input in a Reading Tutor,9/1/11 0:00,AI Approaches and Technologies
+1147621,INDP: InquirySpace: Technologies in Support of Student Experimentation,6/1/12 0:00,Disciplinary Areas
+1217093,"EXP: Mobile, Movement, and Math",9/1/12 0:00,Disciplinary Areas
+1227530,DIP: BioSourcing: A Crowdsourcing Approach to Increasing Public Understanding in Computational Biosciences,9/1/12 0:00,Disciplinary Areas
+1248066,INSPIRE: Kreyol-based Cyberlearning for a New Perspective on the Teaching of STEM in local Languages,1/1/13 0:00,Disciplinary Areas
+1321663,CAP: Partnerships for Indigenous Knowledge and Digital Literacies,7/1/13 0:00,Capacity Building
+1324977,DIP: Community knowledge construction in the instrumented classroom,9/15/13 0:00,Pedagogical Approaches and Processes
+1513086,"GeniConnect: Game-based learning, mentoring, and laboratory experiences - A model for industry-afterschool partnerships",9/1/15,AI Approaches and Technologies
+1516703,"SciStarter 2.0: A Dashboard to Drive Research, Participation, and Community-building in Citizen Science",10/15/15 0:00,"Instruments, Assessment, and Measures"
+1822768,Teachers are the Learners: Providing Automated Feedback on Classroom Inter-Personal Dynamics,8/1/18 0:00,Capacity Building
+1842334,EAGER: Discussion Tracker: Development of Human Language Technologies to Improve the Teaching of Collaborative Argumentation in High School English Classrooms,9/1/18 0:00,Learning Processes and Theories
+1122573,EXP: Fostering Collective Progress in Online Discourse for Sustained Knowledge Building,9/1/11 0:00,Disciplinary Areas
+1123972,DIP: Collaborative Research: Transforming Science Learning with an Interactive Web Environment for Data Sharing and Visualization,9/1/11 0:00,Analytics
+1147621,INDP: InquirySpace: Technologies in Support of Student Experimentation,6/1/12 0:00,Research Methods
+1217093,"EXP: Mobile, Movement, and Math",9/1/12 0:00,Research Methods
+1227245,DIP: Using dynamic formative assessment models to enhance learning of the experimental process in biology,10/1/12 0:00,Pedagogical Approaches and Processes
+1318784,"EXP: ""Earthquake Rebuild"" - Mathematical Thinking and Learning via Architectural Design and Modeling",8/15/13 0:00,Pedagogical Approaches and Processes
+1324047,DIP: BioSim: Developing a Wearable Toolkit for Teaching Complex Science Through Embodied Play,9/15/13 0:00,Disciplinary Areas
+1324753,DIP: Collaborative Research: Taking Hands-on Experimentation to the Cloud: Comparing Physical and Virtual Models in Biology on a Massive Scale,9/15/13 0:00,Learning Environments and Platforms
+1629045,EXP: Inq-Blotter - A Real Time Alerting Tool to Transform Teachers' Assessment of Science Inquiry Practices,9/1/16 0:00,Disciplinary Areas
+1735836,EXP: Paper Mechatronics: Advancing Engineering Education Through Computationally Enhanced Children's Papercrafts,10/1/17 0:00,Learning Processes and Theories
+1822813,"Cyberlearning: Sensei: High-Fidelity, Non-Invasive Classroom Sensing for Professional Development",9/1/18 0:00,AI Approaches and Technologies
+1839379,Signing Avatars & Immersive Learning (SAIL): Development and Testing of a Novel Embodied Learning Environment,8/1/18,Capacity Building
+1227550,DIP: Sustaining ecological communities through citizen science and online collaboration,9/1/12 0:00,AI Approaches and Technologies
+1254535,EAGER: A Prototype WorldWide Telescope Visualization Lab Designed in the Web-based Inquiry Science Environment,9/1/12 0:00,Research Methods
+1318977,EXP: Exploring the potential of mobile augmented reality for scaffolding historical inquiry learning,9/1/13 0:00,Disciplinary Areas
+1842334,EAGER: Discussion Tracker: Development of Human Language Technologies to Improve the Teaching of Collaborative Argumentation in High School English Classrooms,9/1/18 0:00,Capacity Building
+1123832,DIP: Interaction Research in Complex Informal Learning Environments,1/1/12 0:00,AI Approaches and Technologies
+1217317,EXP: Educating Teens to Understand Personal Health (GET-UP),9/1/12 0:00,Disciplinary Areas
+1227245,DIP: Using dynamic formative assessment models to enhance learning of the experimental process in biology,10/1/12 0:00,Disciplinary Areas
+1227550,DIP: Sustaining ecological communities through citizen science and online collaboration,9/1/12 0:00,Disciplinary Areas
+1324753,DIP: Collaborative Research: Taking Hands-on Experimentation to the Cloud: Comparing Physical and Virtual Models in Biology on a Massive Scale,9/15/13 0:00,Disciplinary Areas
+1516703,"SciStarter 2.0: A Dashboard to Drive Research, Participation, and Community-building in Citizen Science",10/15/15 0:00,AI Approaches and Technologies
+1217317,EXP: Educating Teens to Understand Personal Health (GET-UP),9/1/12 0:00,Analytics
+1239599,CAP: Collaborative Research: Building a Network to Advance Collaborative Research on Young Children's Learning through Public Media Assets,1/1/13 0:00,Other
+1320693,EXP: Digital Lofts: Online Learning Environments for Real-World Innovation,9/15/13 0:00,Analytics
+1628937,DIP: Game-based Assessment and Support of STEM-related Competencies,9/1/16 0:00,Equity and Social Justice
+1216977,EXP: Building a Learning Analytics System to Improve Student Learning and Promote Adaptive Teaching Across Multiple Domains,9/1/12 0:00,AI Approaches and Technologies
+1320693,EXP: Digital Lofts: Online Learning Environments for Real-World Innovation,9/15/13 0:00,Disciplinary Areas
+1324047,DIP: BioSim: Developing a Wearable Toolkit for Teaching Complex Science Through Embodied Play,9/15/13 0:00,AI Approaches and Technologies
+1621101,Workshop for Building a Network for Early Career Scholars of Games and Learning,9/1/16 0:00,Capacity Building
+1645102,EAGER: Mobile City Science: Youth Mapping Community Learning Opportunities,9/1/16 0:00,Analytics
+1123832,DIP: Interaction Research in Complex Informal Learning Environments,1/1/12 0:00,Research Methods
+1623635,EXP: Agile Research Studios: Scaling Cognitive Apprenticeship to Advance Undergraduate and Graduate Research Training in STEM,9/1/16 0:00,Equity and Social Justice
+1320693,EXP: Digital Lofts: Online Learning Environments for Real-World Innovation,9/15/13 0:00,Learning Environments and Platforms
+1216977,EXP: Building a Learning Analytics System to Improve Student Learning and Promote Adaptive Teaching Across Multiple Domains,9/1/12 0:00,Research Methods
+1623419,EXP: Fostering Self-Correcting Reasoning with Reflection Systems,9/1/16 0:00,Disciplinary Areas
+1217317,EXP: Educating Teens to Understand Personal Health (GET-UP),9/1/12 0:00,AI Approaches and Technologies
+1239599,CAP: Collaborative Research: Building a Network to Advance Collaborative Research on Young Children's Learning through Public Media Assets,1/1/13 0:00,Capacity Building

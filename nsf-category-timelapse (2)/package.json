@@ -1,0 +1,14 @@
+{
+  "name": "@aditimallavarapu/nsf-category-timelapse",
+  "main": "a9e2a3cc8d89afd6@445.js",
+  "version": "445.0.0",
+  "homepage": "https://observablehq.com/@aditimallavarapu/nsf-category-timelapse",
+  "author": {
+    "name": "Aditi Mallavarapu",
+    "url": "https://observablehq.com/@aditimallavarapu"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
